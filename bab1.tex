@@ -7,54 +7,52 @@ Pada bagian ini akan dijelaskan latar belakang dari pengerjaan tugas akhir ini, 
 %-----------------------------------------------------------------------------%
 \section{Latar Belakang}
 %-----------------------------------------------------------------------------%
-\todo{tuliskan latar belakang penelitian disini}
+Penemuan internet beberapa dekade lalu telah merubah cara manusia dalam hal bertukar informasi. Popularitas dari internet terus meningkat hingga pada akhirnya, menurut data dari cisco\cite{1}, jumlah perangkat yang terhubung ke internet pada tahun 2010 telah melewati jumlah dari populasi manusia yang ada di Bumi. Lebih jauh lagi, diperkirakan pada tahun 2015 ini jumlah perangkat yang terhubung ke internet akan menjadi dua kali lipat dari jumlah populasi manusia. Hal ini disebabkan oleh teknologi komputer terbenam (komputer yang tidak terlihat keberadaannya) yang akan memicu lahirnya era baru dalam sejarah internet, era \iot.
+
+Saat ini, berbagai perangkat yang menerapkan konsep \iot telah bermunculan di pasaran. Beberapa \textit{platform} yang bertujuan menghubungkan berbagai perangkat \iot-pun mulai bermunculan di pasaran. Berbagai \textit{platform} tersebut memiliki berbagai pendekatan, mulai dari yang menargetkan \textit{end-user} dengan model otomasi, sampai yang menargetkan konsumen \textit{enterprise}. Salah satu pendekatan yang belum terlihat keberadaanya di pasaran adalah pendekatan dengan model sosial media dan menargetkan pada \textit{end-user}.
+
+Untuk membuat sebuah \textit{platform} yang menargetkan pada \textit{end-user}, diperlukan cara untuk menghubungkan berbagai perangkat yang dimiliki konsumen dengan cara yang mudah. Mekanisme pendaftaran ini harus bisa menangani baik perangkat yang sudah beredar dipasaran maupun yang nantinya akan beredar di pasaran. Konsumen juga mungkin akan menginginkan agar perangkat yang mereka miliki walaupun berbeda merek, namun bisa dikendalikan secara bersamaan. Untuk itu, dibutuhkan sebuah \textit{generic gateway} yang dapat menghubungkan berbagai perangkat berbeda ke \textit{platform} yang diinginkan melalui internet.
+
+Nisrina Luthfiyati dalam tugas akhirnya yang berjudul "Implementasi ZigBee \textit{Coordinator} dengan REST \textit{Interface}"\cite{2} telah berhasil membuat sebuah coordinator untuk perangkat berbasis ZigBee yang dapat diakses melalui perintah REST. Fauziah Rahmawati kemudian dalam tugas akhirnya yang berjudul "Implementasi \textit{Home Automation Gateway} untuk IOT \textit{Cloud Service} berbasis ZigBee \textit{Network}"\cite{3} berhasil melanjutkan tugas akhir Nisrina Luthfiyati dan membuat sebuah \textit{gateway} yang dapat menghubungkan perangkat berbasis \textit{ZigBee} dengan \textit{Home Automation Profile} ke internet. \textit{Gateway} yang digunakan oleh Fauziah Rahmawati menerapkan konsep \textit{publish-subscribe} dalam melakukan pengiriman data ke internet.
+
+Namun, penulis merasa masih ada yang bisa ditingkatkan dari implementasi \textit{gateway} yang telah dibuat oleh Fauziah, terutama jika akan digunakan pada \textit{platform} \iot yang menggunakan pendekatan sosial media dan menargetkan pada \eu. Untuk bisa digunakan oleh \eu, \textit{gateway} harus bisa mendaftarkan perangkat yang dimiliki konsumen dengan cara yang mudah dan bisa terhubung dengan pengelola perangkat yang ada pada \plat. \textit{Gateway} harus menyertakan identitas ketika terhubung ke \plat sehingga dapat dibedakan antar \textit{gateway} yang dimiliki oleh \textit{user} berbeda. \textit{Gateway} juga harus memiliki bentuk yang ringkas dan tidak memerlukan komputer tambahan sehingga tidak perlu ada komputer konsumen yang menyala terus-menerus.
 
 
 %-----------------------------------------------------------------------------%
-\section{Permasalahan}
+\section{Rumusan Masalah}
 %-----------------------------------------------------------------------------%
-Pada bagian ini akan dijelaskan mengenai definisi permasalahan 
-yang \saya~hadapi dan ingin diselesaikan serta asumsi dan batasan 
-yang digunakan dalam menyelesaikannya.
+Masalah yang ingin diselesaikan dalam tugas akhir ini adalah bagaimana membuat sebuah \textit{generic gateway} yang dapat menghubungkan perangkat yang dimiliki konsumen denga \plat \iot yang menggunakan pendekatan sosial media. \textit{Gateway} harus bisa digunakan oleh \eu dengan mudah dan dapat berkomunikasi dengan \plat yang diinginkan. Secara spesifik, rumusan masalah dalam tugas akhir ini dapat dituangkan ke dalam pertanyaan-pertanyaan berikut:
+\begin{enumerate}
+	\item Bagaimana membuat \textit{gateway} yang bisa digunakan oleh \eu dengan mudah?
+	\item Bagaimana membuat \textit{gateway} dalam bentuk yang lebih ringkas?
+	\item Bagaimana model komunikasi yang baik agar \textit{gateway} dapat terhubung dengan \plat berbasis sosial media yang menargetkan pengguna \eu
+\end{enumerate}
 
 
-%-----------------------------------------------------------------------------%
-\subsection{Definisi Permasalahan}
-%-----------------------------------------------------------------------------%
-\todo{Tuliskan permasalahan yang ingin diselesaikan. Bisa juga
-	berbentuk pertanyaan}
-
-
-%-----------------------------------------------------------------------------%
-\subsection{Batasan Permasalahan}
-%-----------------------------------------------------------------------------%
-\todo{Umumnya ada asumsi atau batasan yang digunakan untuk 
-	menjawab pertanyaan-pertanyaan penelitian diatas.}
-
+\section{Ruang Lingkup Pengerjaan}
+Ruang lingkup implementasi \textit{generic gateway} untuk \plat \iot berbasis sosial media dengan target konsumen \eu adalah sebagai berikut:
+\begin{enumerate}
+	\item \textit{Device} yang akan bisa dihubungkan dibatasi pada perangkat yang menggunakan implementasi ZigBee dengan \textit{profile Home Automation}.
+	\item Perangkat \textit{home automation} yang akan digunakan dibatasi pada perangkat lampu, \textit{switch}, dan \textit{power outlet}. 
+	\item Implementasi ZigBee \textit{coordinator} adalah implementasi yang telah dibuat oleh Nisrina Luthfiyati\cite{2}.
+	\item Implementasi \textit{gateway} akan berdasarkan pada implementasi \textit{gateway} yang telah dibuat oleh Fauziah Rahmawati\cite{3}.
+	\item \textit{Platform} yang akan digunakan sebagai acuan adalah \plat yang sedang dikembangkan oleh penulis.
+	
+\end{enumerate}
 
 %-----------------------------------------------------------------------------%
 \section{Tujuan}
 %-----------------------------------------------------------------------------%
 \todo{Tuliskan tujuan penelitian.}
 
-
 %-----------------------------------------------------------------------------%
-\section{Posisi Penelitian}
-%-----------------------------------------------------------------------------%
-\todo{Posisi penelitian Anda jika dilihat secara bersamaan dengan 
-	peneliti-peneliti lainnya. Akan lebih baik lagi jika ikut menyertakan 
-	diagram yang menjelaskan hubungan dan keterkaitan antar 
-	penelitian-penelitian sebelumnya}
-
-
-%-----------------------------------------------------------------------------%
-\section{Metodologi Penelitian}
+\section{Tahapan Pengerjaan}
 %-----------------------------------------------------------------------------%
 \todo{Tuliskan metodologi penelitian yang digunakan.}
 
 
 %-----------------------------------------------------------------------------%
-\section{Sistematika Penulisan}
+\section{Sistematika Penulisan Laporan}
 %-----------------------------------------------------------------------------%
 Sistematika penulisan laporan adalah sebagai berikut:
 \begin{itemize}
