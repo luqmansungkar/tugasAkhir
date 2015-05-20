@@ -1,0 +1,300 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{zigbeegateway}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Alliance}{A.}%
+     {ZigBee}{Z.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {ZigBee Alliance}%
+  }
+  \strng{namehash}{AZ1}
+  \strng{fullhash}{AZ1}
+  \field{sortinit}{A}
+  \field{title}{Network Device Gateway Specification}
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{zigbeeGateway2}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Alliance}{A.}%
+     {ZigBee}{Z.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {ZigBee Alliance}%
+  }
+  \strng{namehash}{AZ1}
+  \strng{fullhash}{AZ1}
+  \field{sortinit}{A}
+  \field{title}{Understanding ZigBee Gateway}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{AshtonIot}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ashton}{A.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AK1}
+  \strng{fullhash}{AK1}
+  \field{sortinit}{A}
+  \field{number}{7}
+  \field{pages}{97\bibrangedash 114}
+  \field{title}{That 'internet of things' thing}
+  \field{volume}{22}
+  \field{journaltitle}{RFiD Journal}
+  \field{year}{2009}
+\endentry
+
+\entry{GatewayIbmRedbooks}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Burnie~Blakeley}{B.~B.}%
+     {Steve~Smith}{S.~S.}%
+     {}{}%
+     {Deborah J.~Boyd}{D.~J.~B.}}%
+  }
+  \list{publisher}{1}{%
+    {IBM Redbooks}%
+  }
+  \strng{namehash}{BBDJBSS1}
+  \strng{fullhash}{BBDJBSS1}
+  \field{sortinit}{B}
+  \field{title}{Introduction to Networking Technologies}
+  \field{year}{1994}
+\endentry
+
+\entry{CiscoIot}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Cisco}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C1}
+  \strng{fullhash}{C1}
+  \field{sortinit}{C}
+  \field{title}{The Internet of Things}
+  \verb{url}
+  \verb http://share.cisco.com/internet-of-things.html
+  \endverb
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
+\entry{farahani2011zigbee}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Farahani}{F.}%
+     {Shahin}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Newnes}%
+  }
+  \strng{namehash}{FS1}
+  \strng{fullhash}{FS1}
+  \field{sortinit}{F}
+  \field{title}{ZigBee wireless networks and transceivers}
+  \field{year}{2011}
+\endentry
+
+\entry{guinard2010sharing}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Guinard}{G.}%
+     {Dominique}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fischer}{F.}%
+     {Mathias}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trifa}{T.}%
+     {Vlad}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{GDFMTV1}
+  \strng{fullhash}{GDFMTV1}
+  \field{sortinit}{G}
+  \field{booktitle}{Pervasive Computing and Communications Workshops (PERCOM
+  Workshops), 2010 8th IEEE International Conference on}
+  \field{pages}{702\bibrangedash 707}
+  \field{title}{Sharing using social networks in a composable web of things}
+  \field{year}{2010}
+\endentry
+
+\entry{hiveMQtopic}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {HiveMQ}{H.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{H1}
+  \strng{fullhash}{H1}
+  \field{sortinit}{H}
+  \field{note}{Accessed: 2015-05-20}
+  \field{title}{MQTT Essentials Part 5: MQTT Topics and Best Practice}
+  \verb{url}
+  \verb http://www.hivemq.com/mqtt-essentials-part-5-mqtt-topics-best-practices
+  \endverb
+\endentry
+
+\entry{hunkeler2008mqtt}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hunkeler}{H.}%
+     {Urs}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Truong}{T.}%
+     {Hong~Linh}{H.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stanford-Clark}{S.-C.}%
+     {Andy}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{HUTHLSCA1}
+  \strng{fullhash}{HUTHLSCA1}
+  \field{sortinit}{H}
+  \field{booktitle}{Communication systems software and middleware and
+  workshops, 2008. comsware 2008. 3rd international conference on}
+  \field{pages}{791\bibrangedash 798}
+  \field{title}{MQTT-S—A publish/subscribe protocol for Wireless Sensor
+  Networks}
+  \field{year}{2008}
+\endentry
+
+\entry{GubbiIot}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {J.~Gubby}{J.~G.}%
+     {S.Marusic dan M.~Palaniswami}{S.~d. M.~P.}%
+     {}{}%
+     {R.Buyya}{R.}}%
+  }
+  \strng{namehash}{JGRSdMP1}
+  \strng{fullhash}{JGRSdMP1}
+  \field{sortinit}{J}
+  \field{title}{Internet of Things (IoT): A vision, architectural elements, and
+  future directions}
+  \field{journaltitle}{Elsevier}
+  \field{year}{2013}
+\endentry
+
+\entry{LuigiSIoT}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Luigi~Atzori}{L.~A.}%
+     {Giacomo~Morabito}{G.~M.}%
+     {}{}%
+     {Antonio~Iera}{A.~I.}}%
+  }
+  \strng{namehash}{LAAIGM1}
+  \strng{fullhash}{LAAIGM1}
+  \field{sortinit}{L}
+  \field{title}{SIoT: Giving a Social Structure to the Internet of Things}
+  \field{journaltitle}{IEEE Communications Letters}
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
+\entry{SkripsiNina}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Luthfiyati}{L.}%
+     {Nisrina}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LN1}
+  \strng{fullhash}{LN1}
+  \field{sortinit}{L}
+  \field{title}{Implementasi zigbee \textit{coordinator} dengan REST}
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
+\entry{mqtt.org}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {MQTT}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{sortinit}{M}
+  \field{note}{Accessed: 2015-05-19}
+  \field{title}{Frequently Asked Question}
+  \verb{url}
+  \verb mqtt.org/faq
+  \endverb
+\endentry
+
+\entry{SkripsiFarah}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rahmawati}{R.}%
+     {Fauziah}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RF1}
+  \strng{fullhash}{RF1}
+  \field{sortinit}{R}
+  \field{title}{Implementasi \textit{Home Automation Gateway} untuk IOT
+  \textit{Cloud Service} berbasis ZigBee \textit{Network}}
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

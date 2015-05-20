@@ -16,7 +16,10 @@
 \documentclass[12pt, a4paper, onecolumn, oneside, final]{report}
 
 % Load konfigurasi LaTeX untuk tipe laporan thesis
+\usepackage{url}
 \usepackage{uithesis}
+\usepackage[backend=bibtex,style=numeric]{biblatex}
+\bibliography{referensi}
 
 
 % Load konfigurasi khusus untuk laporan yang sedang dibuat
@@ -101,7 +104,8 @@
 
 %
 % Daftar Pustaka
-\include{pustaka}
+%\include{pustaka}
+\printbibliography
 
 %
 % Lampiran 
@@ -111,5 +115,6 @@
 	\setcounter{page}{2}
 	\include{lampiran}
 \end{appendix}
+
 
 \end{document}

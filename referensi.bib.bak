@@ -1,0 +1,94 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Manual{zigbeegateway,
+  Title                    = {Network Device Gateway Specification},
+  Author                   = {ZigBee Alliance},
+  Month                    = {April},
+  Organization             = {ZigBee Alliance},
+  Year                     = {2011},
+
+  Owner                    = {Luqman},
+  Timestamp                = {2015.05.16}
+}
+
+@Article{AshtonIot,
+  Title                    = {That 'internet of things' thing},
+  Author                   = {Ashton, Kevin},
+  Journal                  = {RFiD Journal},
+  Year                     = {2009},
+  Number                   = {7},
+  Pages                    = {97--114},
+  Volume                   = {22}
+}
+
+@Book{GatewayIbmRedbooks,
+  Title                    = {Introduction to Networking Technologies},
+  Author                   = {Burnie Blakeley, Deborah J. Boyd, Steve Smith},
+  Publisher                = {IBM Redbooks},
+  Year                     = {1994}
+}
+
+@Other{CiscoIot,
+  Title                    = {The Internet of Things},
+  Author                   = {Cisco},
+  Date                     = {10 Maret 2015},
+  Url                      = {http://share.cisco.com/internet-of-things.html}
+}
+
+@Book{farahani2011zigbee,
+  Title                    = {ZigBee wireless networks and transceivers},
+  Author                   = {Farahani, Shahin},
+  Publisher                = {Newnes},
+  Year                     = {2011}
+}
+
+@InProceedings{guinard2010sharing,
+  Title                    = {Sharing using social networks in a composable web of things},
+  Author                   = {Guinard, Dominique and Fischer, Mathias and Trifa, Vlad},
+  Booktitle                = {Pervasive Computing and Communications Workshops (PERCOM Workshops), 2010 8th IEEE International Conference on},
+  Year                     = {2010},
+  Organization             = {IEEE},
+  Pages                    = {702--707}
+}
+
+@Article{GubbiIot,
+  Title                    = {Internet of Things (IoT): A vision, architectural elements, and future directions},
+  Author                   = {J. Gubby, R.Buyya, S.Marusic, dan M. Palaniswami},
+
+  Date                     = {2013},
+  Journaltitle             = {Elsevier},
+  Optvolume                = {29}
+}
+
+@Article{LuigiSIoT,
+  Title                    = {SIoT: Giving a Social Structure to the Internet of Things},
+  Author                   = {Luigi Atzori, Antonio Iera, Giacomo Morabito},
+
+  Date                     = {November 2011},
+  Journaltitle             = {IEEE Communications Letters}
+}
+
+@Other{SkripsiNina,
+  Title                    = {Implementasi zigbee \textit{coordinator} dengan REST},
+  Author                   = {Nisrina Luthfiyati},
+  Date                     = {Juni 2014}
+}
+
+@Other{SkripsiFarah,
+  Title                    = {Implementasi \textit{Home Automation Gateway} untuk IOT \textit{Cloud Service} berbasis ZigBee \textit{Network}},
+  Author                   = {Fauziah Rahmawati},
+  Date                     = {Januari 2015}
+}
+
+@InProceedings{Trifa09Gateway,
+  Title                    = {Design and Implementation of a Gateway for Web-based Interaction and Management of Embedded Devices},
+  Author                   = {Vlad Trifa and Samuel Wieland and Dominique Guinard and Thomas Michael Bohnert},
+  Booktitle                = {Proceedings of the 2nd International Workshop on Sensor Network Engineering (IWSNE’09)},
+  Year                     = {2009},
+
+  Address                  = {Marina del Rey, CA, USA},
+  Month                    = {June}
+}
+

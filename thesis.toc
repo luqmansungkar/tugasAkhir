@@ -1,46 +1,97 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{HALAMAN JUDUL}{i}{section*.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LEMBAR PERSETUJUAN}{ii}{section*.4}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LEMBAR PERNYATAAN ORISINALITAS}{iii}{section*.5}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LEMBAR PENGESAHAN}{iv}{section*.6}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\uppercase {Kata Pengantar}}{v}{section*.7}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{LEMBAR PERSETUJUAN PUBLIKASI ILMIAH}{vii}{section*.10}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{ABSTRAK}{viii}{section*.11}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Daftar Isi}{x}{section*.11}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Daftar Gambar}{xii}{section*.11}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Daftar Tabel}{xiii}{section*.11}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}\uppercase {Pendahuluan}}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}{section.1.2}
-\contentsline {section}{\numberline {1.3}Ruang Lingkup Pengerjaan}{2}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Ruang Lingkup Pengerjaan}{3}{section.1.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}Tujuan}{3}{section.1.4}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.5}Tahapan Pengerjaan}{3}{section.1.5}
-\contentsline {section}{\numberline {1.6}Sistematika Penulisan Laporan}{3}{section.1.6}
-\contentsline {chapter}{\numberline {2}\uppercase {Sekilas Mengenai \LaTeX }}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}\LaTeX \nobreakspace {}Secara Singkat}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}\LaTeX \nobreakspace {}Kompiler dan IDE}{6}{section.2.2}
-\contentsline {section}{\numberline {2.3}Bold, Italic, dan Underline}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Memasukan Gambar}{7}{section.2.4}
-\contentsline {section}{\numberline {2.5}Membuat Tabel}{7}{section.2.5}
-\contentsline {chapter}{\numberline {3}\uppercase {Notasi Matematik}}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}Satu Persamaan}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}Lebih dari Satu Persamaan}{9}{section.3.2}
-\contentsline {chapter}{\numberline {4}\uppercase {Struktur Berkas}}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}thesis.tex}{11}{section.4.1}
-\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{11}{section.4.2}
-\contentsline {section}{\numberline {4.3}istilah.tex}{11}{section.4.3}
-\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{11}{section.4.4}
-\contentsline {section}{\numberline {4.5}pustaka.tex}{12}{section.4.5}
-\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{12}{section.4.6}
-\contentsline {chapter}{\numberline {5}\uppercase {Perintah dalam uithesis.sty}}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{13}{section.5.1}
-\contentsline {section}{\numberline {5.2}Memberikan Catatan}{13}{section.5.2}
-\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{14}{section.5.3}
-\contentsline {section}{\numberline {5.4}Memasukan PDF}{14}{section.5.4}
-\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{18}{section.5.5}
-\contentsline {chapter}{\numberline {6}\uppercase {??}}{19}{chapter.6}
-\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{20}{chapter.7}
-\contentsline {section}{\numberline {7.1}Kesimpulan}{20}{section.7.1}
-\contentsline {section}{\numberline {7.2}Saran}{20}{section.7.2}
-\contentsline {chapter}{Daftar Referensi}{21}{section.7.2}
-\contentsline {chapter}{LAMPIRAN}{1}{section*.17}
-\contentsline {chapter}{Lampiran 1}{2}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Sistematika Penulisan Laporan}{4}{section.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}\uppercase {Landasan Teori}}{6}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}\textit {Internet of Things}}{6}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}\textit {Social} \textit {internet of things}}{7}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}ZigBee}{8}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Gateway}{9}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}ZigBee \textit {Gateway}}{10}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}MQTT}{11}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Sistem \textit {Publish-Subscribe}}{12}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Topik dalam MQTT}{12}{subsection.2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}\uppercase {Rancangan Implementasi}}{15}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Satu Persamaan}{15}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Lebih dari Satu Persamaan}{15}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}\uppercase {Implementasi}}{17}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}thesis.tex}{17}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{17}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}istilah.tex}{17}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{17}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}pustaka.tex}{18}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{18}{section.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}\uppercase {Pengujian}}{19}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{19}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Memberikan Catatan}{19}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{20}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Memasukan PDF}{20}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{24}{section.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}\uppercase {??}}{25}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{26}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Kesimpulan}{26}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Saran}{26}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{LAMPIRAN}{1}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Lampiran 1}{2}{section*.17}
