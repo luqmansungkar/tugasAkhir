@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  20 MAY 2015 17:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  20 MAY 2015 17:23
 entering extended mode
 **thesis.tex
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.tex"
@@ -1034,16 +1034,6 @@ Underfull \hbox (badness 4341) in paragraph at lines 33--34
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-[]\OT1/ptm/m/n/12 Perangkat yang di-gu-nakan adalah Rasp-berry Pi
- []
-
-
-Overfull \hbox (27.94829pt too wide) in paragraph at lines 40--41
-[]
- []
-
-
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
@@ -1086,64 +1076,6 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7]
-Underfull \hbox (badness 6412) in paragraph at lines 18--22
-[]\OT1/ptm/m/n/12 Contoh pen-dekatan lain adalah seperti yang dibuat oleh Do-mi
-nique
- []
-
-
-Underfull \hbox (badness 2165) in paragraph at lines 18--22
-\OT1/ptm/m/n/12 un-tuk me-man-faatkan hubun-gan manu-sia yang ter-da-pat pada l
-ayanan sosial
- []
-
-
-Underfull \hbox (badness 2717) in paragraph at lines 18--22
-\OT1/ptm/m/n/12 me-dia yang su-dah ada di pasaran seperti face-book, twit-ter, 
-dan lain-nya.
- []
-
-
-Underfull \hbox (badness 1194) in paragraph at lines 18--22
-\OT1/ptm/m/n/12 Melalui konsep ini, se-o-rang peng-guna da-pat mem-bagikan \OT1
-/ptm/m/it/12 re-source \OT1/ptm/m/n/12 dari su-
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 18--22
-\OT1/ptm/m/n/12 atu benda yang dim-i-likinya ke te-man-nya yang ter-da-pat pada
- su-atu me-dia
- []
-
-
-Underfull \hbox (badness 2521) in paragraph at lines 18--22
-\OT1/ptm/m/n/12 sosial yang sama. Pem-ba-gian \OT1/ptm/m/it/12 re-source \OT1/p
-tm/m/n/12 ini bisa hanya mem-bagikan sta-
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 18--22
-\OT1/ptm/m/n/12 tus dari \OT1/ptm/m/it/12 re-source \OT1/ptm/m/n/12 terkait saj
-a (\OT1/ptm/m/it/12 read only\OT1/ptm/m/n/12 ) atau juga bisa mem-berikan orang
-
- []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 18--22
-\OT1/ptm/m/n/12 lain ak-ses un-tuk melakukan kon-trol atau merubah sta-tus dari
- benda terkait.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -1162,7 +1094,7 @@ File: pics/arsitektur-zigbee-gateway.PNG Graphic file (type png)
 
 <use pics/arsitektur-zigbee-gateway.PNG>
 Package pdftex.def Info: pics/arsitektur-zigbee-gateway.PNG used on input line 
-52.
+49.
 (pdftex.def)             Requested size: 358.50229pt x 215.01103pt.
 
 
@@ -1171,30 +1103,38 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
-Underfull \hbox (badness 1147) in paragraph at lines 62--63
+[10 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/arsitektur-zigbee-gateway.P
+NG>]
+Underfull \hbox (badness 1147) in paragraph at lines 59--60
 []\OT1/ptm/m/n/12 MQTT di de-sain agar segala kom-plek-si-tas mekanisme pen-gi-
 r-i-man pe-san
  []
 
 
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[11 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/arsitektur-zigbee-gateway.P
-NG>]
-Underfull \hbox (badness 1117) in paragraph at lines 68--69
+Underfull \hbox (badness 1117) in paragraph at lines 65--66
 []\OT1/ptm/m/n/12 Ada tiga tipe dasar dalam konsep sis-tem pub-sub ini, yaitu \
 OT1/ptm/m/it/12 topic-based
  []
 
-<pics/mqtt-topic.PNG, id=492, 891.33pt x 214.8828pt>
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11] <pics/mqtt-topic.PNG, id=493, 891.33pt x 214.8828pt>
 File: pics/mqtt-topic.PNG Graphic file (type png)
- <use pics/mqtt-topic.PNG>
-Package pdftex.def Info: pics/mqtt-topic.PNG used on input line 75.
+
+<use pics/mqtt-topic.PNG>
+Package pdftex.def Info: pics/mqtt-topic.PNG used on input line 72.
 (pdftex.def)             Requested size: 358.50229pt x 86.42702pt.
+
+<pics/single-level-wildcard.PNG, id=499, 691.383pt x 477.9456pt>
+File: pics/single-level-wildcard.PNG Graphic file (type png)
+
+<use pics/single-level-wildcard.PNG>
+Package pdftex.def Info: pics/single-level-wildcard.PNG used on input line 81.
+(pdftex.def)             Requested size: 358.50229pt x 247.82573pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1202,18 +1142,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12] <pics/single-level-wildcard.PNG, id=503, 691.383pt x 477.9456pt>
-File: pics/single-level-wildcard.PNG Graphic file (type png)
-
-<use pics/single-level-wildcard.PNG>
-Package pdftex.def Info: pics/single-level-wildcard.PNG used on input line 84.
-(pdftex.def)             Requested size: 358.50229pt x 247.82573pt.
-
-<pics/multi-level-wildcard.PNG, id=506, 833.0322pt x 477.9456pt>
+[12 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/mqtt-topic.PNG>]
+<pics/multi-level-wildcard.PNG, id=507, 833.0322pt x 477.9456pt>
 File: pics/multi-level-wildcard.PNG Graphic file (type png)
 
 <use pics/multi-level-wildcard.PNG>
-Package pdftex.def Info: pics/multi-level-wildcard.PNG used on input line 91.
+Package pdftex.def Info: pics/multi-level-wildcard.PNG used on input line 88.
 (pdftex.def)             Requested size: 358.50229pt x 205.69492pt.
 )
 
@@ -1222,15 +1156,8 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/mqtt-topic.PNG> <D:/backup/
-Kuliah/Semester 8/TA/tugasAkhir/pics/single-level-wildcard.PNG>]
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[14 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/multi-level-wildcard.PNG>]
+[13 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/single-level-wildcard.PNG> 
+<D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/multi-level-wildcard.PNG>]
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab3.tex"
 BAB 3.
 
@@ -1247,7 +1174,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[15
+[14
 
 
 
@@ -1258,7 +1185,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.tex"
+[15] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.tex"
 BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1281,9 +1208,9 @@ asa In-done-sia.
  []
 
 
-LaTeX Warning: Citation 'latex.intro' on page 17 undefined on input line 53.
+LaTeX Warning: Citation 'latex.intro' on page 16 undefined on input line 53.
 
-[17
+[16
 
 
 
@@ -1294,7 +1221,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.tex"
+[17] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.tex"
 BAB 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1325,11 +1252,11 @@ Overfull \hbox (27.94829pt too wide) in paragraph at lines 34--36
 [] 
  []
 
-[19
+[18
 
 
 
-] <include.pdf, id=562, 597.51233pt x 845.0471pt>
+] <include.pdf, id=558, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 57.
@@ -1346,7 +1273,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20] <include.pdf, id=569, page=1, 597.51233pt x 845.0471pt>
+[19] <include.pdf, id=565, page=1, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
 
 <use include.pdf, page 1>
@@ -1376,7 +1303,7 @@ File: include.pdf Graphic file (type pdf)
 <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 57.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
- [21 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/include.pdf>]
+ [20 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/include.pdf>]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 64.
@@ -1392,7 +1319,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22]
+[21]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
@@ -1415,14 +1342,14 @@ File: include.pdf Graphic file (type pdf)
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 
-[23])
+[22])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.tex"
+[23] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.tex"
 BAB 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1438,7 +1365,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-) [25
+) [24
 
 
 
@@ -1458,7 +1385,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [26
+) [25
 
 
 
@@ -1466,7 +1393,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
- [27
+ [26
 
 
 ] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\markLampiran.tex"pdfTeX warning (
@@ -1528,8 +1455,8 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 14304 strings out of 493921
- 227095 string characters out of 3144873
+ 14303 strings out of 493921
+ 227088 string characters out of 3144873
  433334 words of memory out of 3000000
  17060 multiletter control sequences out of 15000+200000
  43994 words of font info for 84 fonts, out of 3000000 for 9000
@@ -1546,9 +1473,9 @@ KTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (43 pages, 607465 bytes).
+Output written on thesis.pdf (42 pages, 605947 bytes).
 PDF statistics:
- 687 PDF objects out of 1000 (max. 8388607)
- 132 named destinations out of 1000 (max. 500000)
+ 682 PDF objects out of 1000 (max. 8388607)
+ 131 named destinations out of 1000 (max. 500000)
  450 words of extra memory for PDF output out of 10000 (max. 10000000)
 
