@@ -54,44 +54,48 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}\uppercase {Rancangan Implementasi}}{14}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Satu Persamaan}{14}{section.3.1}
+\contentsline {section}{\numberline {3.1}Gambaran Umum Sistem}{14}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Lebih dari Satu Persamaan}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.1}Gambaran Umum \textit {Gateway}}{16}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}\uppercase {Implementasi}}{16}{chapter.4}
+\contentsline {section}{\numberline {3.2}Rancangan Implementasi \textit {Gateway}}{17}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}thesis.tex}{16}{section.4.1}
+\contentsline {section}{\numberline {3.3}Rancangan Pengujian}{17}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{16}{section.4.2}
+\contentsline {chapter}{\numberline {4}\uppercase {Implementasi}}{18}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}istilah.tex}{16}{section.4.3}
+\contentsline {section}{\numberline {4.1}thesis.tex}{18}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{16}{section.4.4}
+\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{18}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}pustaka.tex}{17}{section.4.5}
+\contentsline {section}{\numberline {4.3}istilah.tex}{18}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{17}{section.4.6}
+\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{18}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}\uppercase {Pengujian}}{18}{chapter.5}
+\contentsline {section}{\numberline {4.5}pustaka.tex}{19}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{18}{section.5.1}
+\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{19}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Memberikan Catatan}{18}{section.5.2}
+\contentsline {chapter}{\numberline {5}\uppercase {Pengujian}}{20}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{19}{section.5.3}
+\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{20}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Memasukan PDF}{19}{section.5.4}
+\contentsline {section}{\numberline {5.2}Memberikan Catatan}{20}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{23}{section.5.5}
+\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{21}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}\uppercase {??}}{24}{chapter.6}
+\contentsline {section}{\numberline {5.4}Memasukan PDF}{21}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{25}{chapter.7}
+\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{25}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Kesimpulan}{25}{section.7.1}
+\contentsline {chapter}{\numberline {6}\uppercase {??}}{26}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Saran}{25}{section.7.2}
+\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{27}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{LAMPIRAN}{1}{section*.16}
+\contentsline {section}{\numberline {7.1}Kesimpulan}{27}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Lampiran 1}{2}{section*.17}
+\contentsline {section}{\numberline {7.2}Saran}{27}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{LAMPIRAN}{1}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Lampiran 1}{2}{section*.18}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  20 MAY 2015 17:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  4 JUN 2015 19:28
 entering extended mode
 **thesis.tex
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.tex"
@@ -768,7 +768,7 @@ Package biblatex Warning: BibTeX reported the following issues
 Package biblatex Info: Reference section=0 on input line 33.
 Package biblatex Info: Reference segment=0 on input line 33.
  ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\sampul.tex"
-<pics/makara.png, id=192, 154.86429pt x 154.34807pt>
+<pics/makara.png, id=200, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
 Package pdftex.def Info: pics/makara.png used on input line 14.
@@ -877,7 +877,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 65.
 
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\pengantar.tex"
-<pics/creative_common.png, id=219, 759.83875pt x 645.41125pt>
+<pics/creative_common.png, id=227, 759.83875pt x 645.41125pt>
 File: pics/creative_common.png Graphic file (type png)
 
 <use pics/creative_common.png>
@@ -891,7 +891,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 
  <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/creative_common.png (PNG copy)
 >]
-<pics/mark.png, id=235, 336.25626pt x 66.2475pt>
+<pics/mark.png, id=243, 336.25626pt x 66.2475pt>
 File: pics/mark.png Graphic file (type png)
  <use pics/mark.png>
 Package pdftex.def Info: pics/mark.png used on input line 61.
@@ -1089,7 +1089,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] <pics/arsitektur-zigbee-gateway.PNG, id=468, 573.64313pt x 344.03531pt>
+[9] <pics/arsitektur-zigbee-gateway.PNG, id=483, 573.64313pt x 344.03531pt>
 File: pics/arsitektur-zigbee-gateway.PNG Graphic file (type png)
 
 <use pics/arsitektur-zigbee-gateway.PNG>
@@ -1122,14 +1122,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] <pics/mqtt-topic.PNG, id=493, 891.33pt x 214.8828pt>
+[11] <pics/mqtt-topic.PNG, id=508, 891.33pt x 214.8828pt>
 File: pics/mqtt-topic.PNG Graphic file (type png)
 
 <use pics/mqtt-topic.PNG>
 Package pdftex.def Info: pics/mqtt-topic.PNG used on input line 72.
 (pdftex.def)             Requested size: 358.50229pt x 86.42702pt.
 
-<pics/single-level-wildcard.PNG, id=499, 691.383pt x 477.9456pt>
+<pics/single-level-wildcard.PNG, id=514, 691.383pt x 477.9456pt>
 File: pics/single-level-wildcard.PNG Graphic file (type png)
 
 <use pics/single-level-wildcard.PNG>
@@ -1143,7 +1143,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [12 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/mqtt-topic.PNG>]
-<pics/multi-level-wildcard.PNG, id=507, 833.0322pt x 477.9456pt>
+<pics/multi-level-wildcard.PNG, id=522, 833.0322pt x 477.9456pt>
 File: pics/multi-level-wildcard.PNG Graphic file (type png)
 
 <use pics/multi-level-wildcard.PNG>
@@ -1165,27 +1165,67 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
+Underfull \hbox (badness 1478) in paragraph at lines 7--8
+\OT1/ptm/m/n/12 Dalam tu-gas akhir ini, akan di-im-ple-men-tasikan se-buah \OT1
+/ptm/m/it/12 gate-way \OT1/ptm/m/n/12 yang akan
  []
 
+<pics/rancangan-siot.PNG, id=532, 985.7628pt x 347.8596pt>
+File: pics/rancangan-siot.PNG Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+<use pics/rancangan-siot.PNG>
+Package pdftex.def Info: pics/rancangan-siot.PNG used on input line 11.
+(pdftex.def)             Requested size: 358.50229pt x 126.50856pt.
+ [14
 
+
+
+ <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-siot.PNG>]
+Underfull \hbox (badness 5022) in paragraph at lines 32--33
+[]\OT1/ptm/m/n/12 Seperti yang telah dise-butkan se-belum-nya, seir-ing de-ngan
+ se-makin
  []
 
-[14
-
-
-
-])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.tex"
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.tex"
 BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1208,9 +1248,9 @@ asa In-done-sia.
  []
 
 
-LaTeX Warning: Citation 'latex.intro' on page 16 undefined on input line 53.
+LaTeX Warning: Citation 'latex.intro' on page 18 undefined on input line 53.
 
-[16
+[18
 
 
 
@@ -1221,7 +1261,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.tex"
+[19] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.tex"
 BAB 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1252,11 +1292,11 @@ Overfull \hbox (27.94829pt too wide) in paragraph at lines 34--36
 [] 
  []
 
-[18
+[20
 
 
 
-] <include.pdf, id=558, 597.51233pt x 845.0471pt>
+] <include.pdf, id=571, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 57.
@@ -1273,7 +1313,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] <include.pdf, id=565, page=1, 597.51233pt x 845.0471pt>
+[21] <include.pdf, id=578, page=1, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
 
 <use include.pdf, page 1>
@@ -1303,7 +1343,7 @@ File: include.pdf Graphic file (type pdf)
 <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 57.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
- [20 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/include.pdf>]
+ [22 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/include.pdf>]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 64.
@@ -1319,7 +1359,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21]
+[23]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
@@ -1342,14 +1382,14 @@ File: include.pdf Graphic file (type pdf)
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 
-[22])
+[24])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.tex"
+[25] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.tex"
 BAB 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1365,7 +1405,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-) [24
+) [26
 
 
 
@@ -1385,7 +1425,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [25
+) [27
 
 
 
@@ -1393,7 +1433,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
- [26
+ [28
 
 
 ] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\markLampiran.tex"pdfTeX warning (
@@ -1441,7 +1481,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 533CBCE533A36A28ABF8645EA7D10A07;2996.
+(rerunfilecheck)             Checksum: 8443235675CEFA85FAEFCC1BD0347D18;3160.
 
 
 LaTeX Warning: There were undefined references.
@@ -1455,27 +1495,23 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 14303 strings out of 493921
- 227088 string characters out of 3144873
- 433334 words of memory out of 3000000
- 17060 multiletter control sequences out of 15000+200000
- 43994 words of font info for 84 fonts, out of 3000000 for 9000
+ 14287 strings out of 493921
+ 227012 string characters out of 3144873
+ 431054 words of memory out of 3000000
+ 17053 multiletter control sequences out of 15000+200000
+ 33800 words of font info for 63 fonts, out of 3000000 for 9000
  911 hyphenation exceptions out of 8191
  44i,18n,49p,1688b,1042s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
-w/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/ut
-mr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (42 pages, 605947 bytes).
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on thesis.pdf (44 pages, 614690 bytes).
 PDF statistics:
  682 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
- 450 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 named destinations out of 1000 (max. 500000)
+ 471 words of extra memory for PDF output out of 10000 (max. 10000000)
 
