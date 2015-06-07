@@ -26,25 +26,36 @@
 \BOOKMARK [2][-]{subsection.2.5.2}{2.5.2 Topik dalam MQTT}{section.2.5}% 26
 \BOOKMARK [0][-]{chapter.3}{3 Rancangan Implementasi}{}% 27
 \BOOKMARK [1][-]{section.3.1}{3.1 Gambaran Umum Sistem}{chapter.3}% 28
-\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Gambaran Umum Gateway}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Gambaran Umum Perangkat Gateway}{section.3.1}% 29
 \BOOKMARK [1][-]{section.3.2}{3.2 Rancangan Implementasi Gateway}{chapter.3}% 30
-\BOOKMARK [1][-]{section.3.3}{3.3 Rancangan Pengujian}{chapter.3}% 31
-\BOOKMARK [0][-]{chapter.4}{4 Implementasi}{}% 32
-\BOOKMARK [1][-]{section.4.1}{4.1 thesis.tex}{chapter.4}% 33
-\BOOKMARK [1][-]{section.4.2}{4.2 laporan\137setting.tex}{chapter.4}% 34
-\BOOKMARK [1][-]{section.4.3}{4.3 istilah.tex}{chapter.4}% 35
-\BOOKMARK [1][-]{section.4.4}{4.4 hype.indonesia.tex}{chapter.4}% 36
-\BOOKMARK [1][-]{section.4.5}{4.5 pustaka.tex}{chapter.4}% 37
-\BOOKMARK [1][-]{section.4.6}{4.6 bab[1 - 6].tex}{chapter.4}% 38
-\BOOKMARK [0][-]{chapter.5}{5 Pengujian}{}% 39
-\BOOKMARK [1][-]{section.5.1}{5.1 Mengubah Tampilan Teks}{chapter.5}% 40
-\BOOKMARK [1][-]{section.5.2}{5.2 Memberikan Catatan}{chapter.5}% 41
-\BOOKMARK [1][-]{section.5.3}{5.3 Menambah Isi Daftar Isi}{chapter.5}% 42
-\BOOKMARK [1][-]{section.5.4}{5.4 Memasukan PDF}{chapter.5}% 43
-\BOOKMARK [1][-]{section.5.5}{5.5 Membuat Perintah Baru}{chapter.5}% 44
-\BOOKMARK [0][-]{chapter.6}{6 ??}{}% 45
-\BOOKMARK [0][-]{chapter.7}{7 Kesimpulan dan Saran}{}% 46
-\BOOKMARK [1][-]{section.7.1}{7.1 Kesimpulan}{chapter.7}% 47
-\BOOKMARK [1][-]{section.7.2}{7.2 Saran}{chapter.7}% 48
-\BOOKMARK [0][-]{section*.17}{LAMPIRAN}{}% 49
-\BOOKMARK [0][-]{section*.18}{Lampiran 1}{}% 50
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Perangkat yang digunakan}{section.3.2}% 31
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Tools yang digunakan}{section.3.2}% 32
+\BOOKMARK [3][-]{subsubsection.3.2.2.1}{3.2.2.1 deCONZ}{subsection.3.2.2}% 33
+\BOOKMARK [3][-]{subsubsection.3.2.2.2}{3.2.2.2 Mosquitto}{subsection.3.2.2}% 34
+\BOOKMARK [3][-]{subsubsection.3.2.2.3}{3.2.2.3 Eclipse Paho}{subsection.3.2.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Rancangan Mekanisme Pengiriman Pesan}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Rancangan Topik}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.5}{3.2.5 Rancangan Translasi Topik Menjadi Perintah REST}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.6}{3.2.6 Rancangan Mekanisme Penggunaan Oleh Pengguna \(End User\)}{section.3.2}% 39
+\BOOKMARK [3][-]{subsubsection.3.2.6.1}{3.2.6.1 Cara Pengguna Terhubung ke Perangkat Gateway}{subsection.3.2.6}% 40
+\BOOKMARK [3][-]{subsubsection.3.2.6.2}{3.2.6.2 Cara Mendaftarkan Lampu ke Platform}{subsection.3.2.6}% 41
+\BOOKMARK [1][-]{section.3.3}{3.3 Rancangan Pengujian}{chapter.3}% 42
+\BOOKMARK [0][-]{chapter.4}{4 Implementasi}{}% 43
+\BOOKMARK [1][-]{section.4.1}{4.1 thesis.tex}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.2}{4.2 laporan\137setting.tex}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.3}{4.3 istilah.tex}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.4}{4.4 hype.indonesia.tex}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.5}{4.5 pustaka.tex}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.6}{4.6 bab[1 - 6].tex}{chapter.4}% 49
+\BOOKMARK [0][-]{chapter.5}{5 Pengujian}{}% 50
+\BOOKMARK [1][-]{section.5.1}{5.1 Mengubah Tampilan Teks}{chapter.5}% 51
+\BOOKMARK [1][-]{section.5.2}{5.2 Memberikan Catatan}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.3}{5.3 Menambah Isi Daftar Isi}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.4}{5.4 Memasukan PDF}{chapter.5}% 54
+\BOOKMARK [1][-]{section.5.5}{5.5 Membuat Perintah Baru}{chapter.5}% 55
+\BOOKMARK [0][-]{chapter.6}{6 ??}{}% 56
+\BOOKMARK [0][-]{chapter.7}{7 Kesimpulan dan Saran}{}% 57
+\BOOKMARK [1][-]{section.7.1}{7.1 Kesimpulan}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.2}{7.2 Saran}{chapter.7}% 59
+\BOOKMARK [0][-]{section*.30}{LAMPIRAN}{}% 60
+\BOOKMARK [0][-]{section*.31}{Lampiran 1}{}% 61
