@@ -1,5 +1,6 @@
 %-----------------------------------------------------------------------------%
 \chapter{\babSatu}
+\todo{posisi penelitian, list apa aja yg di maksud buat end user}
 %-----------------------------------------------------------------------------%
 Pada bagian ini akan dijelaskan latar belakang dari pengerjaan tugas akhir ini, tujuan penulisan, rumusan masalah, ruang lingkup dan batasan pengerjaan, tahapan pengerjaan, dan sistematika penulisan laporan.
 
@@ -15,7 +16,7 @@ Untuk membuat sebuah \textit{platform} yang menargetkan pada \textit{end-user}, 
 
 Nisrina Luthfiyati dalam tugas akhirnya yang berjudul "Implementasi ZigBee \textit{Coordinator} dengan REST \textit{Interface}"\cite{SkripsiNina} telah berhasil membuat sebuah \textit{coordinator} untuk perangkat berbasis ZigBee yang dapat diakses melalui perintah REST. Fauziah Rahmawati kemudian dalam tugas akhirnya yang berjudul "Implementasi \textit{Home Automation Gateway} untuk IOT \textit{Cloud Service} berbasis ZigBee \textit{Network}"\cite{SkripsiFarah} berhasil melanjutkan tugas akhir Nisrina Luthfiyati dan membuat sebuah \textit{gateway} yang dapat menghubungkan perangkat berbasis \textit{ZigBee} dengan \textit{Home Automation Profile} ke internet. \textit{Gateway} yang digunakan oleh Fauziah Rahmawati menerapkan konsep \textit{publish-subscribe} dalam melakukan pengiriman data ke internet.
 
-Namun, penulis merasa masih ada yang bisa ditingkatkan dari implementasi \textit{gateway} yang telah dibuat oleh Fauziah, terutama jika akan digunakan pada \textit{platform} \iot~yang akan dibuat oleh \saya~dan teman-teman \saya~yang menargetkan pada \eu. Implementasi \textit{gateway} yang telah dibuat oleh Fauziah masih terlalu rumit untuk digunakan dan masih membutuhkan suatu komputer terpisah yang terus menyala untuk bisa digunakan. Sedangkan jika ingin bisa digunakan oleh \eu, \textit{gateway} harus bisa mendaftarkan perangkat yang dimiliki konsumen dengan cara yang mudah dan bisa terhubung dengan pengelola perangkat yang ada pada \plat~terkait. \textit{Gateway} harus menyertakan identitas ketika terhubung ke \plat~sehingga dapat dibedakan antar \textit{gateway} yang dimiliki oleh \textit{user} berbeda. \textit{Gateway} juga harus memiliki bentuk yang ringkas dan tidak memerlukan komputer tambahan sehingga tidak perlu ada komputer konsumen yang menyala terus-menerus. Oleh karena itu, \saya~terpikir untuk membuat sebuah implementasi ZigBee \textit{gateway} dengan menggunakan Raspberry Pi untuk menyelesaikan masalah yang disebutkan sebelumnya.
+Namun, penulis merasa masih ada yang bisa ditingkatkan dari implementasi \textit{gateway} yang telah dibuat oleh Fauziah, terutama jika akan digunakan pada \textit{platform} \iot~yang akan dibuat oleh \saya~dan teman-teman \saya~yang menargetkan pada \eu. Implementasi \textit{gateway} yang telah dibuat oleh Fauziah masih cukup rumit untuk digunakan dan masih membutuhkan suatu komputer terpisah yang terus menyala untuk bisa digunakan. Sedangkan jika ingin bisa digunakan oleh \eu, \textit{gateway} harus bisa mendaftarkan perangkat yang dimiliki konsumen dengan cara yang mudah dan bisa terhubung dengan pengelola perangkat yang ada pada \plat~terkait. \textit{Gateway} harus menyertakan identitas ketika terhubung ke \plat~sehingga dapat dibedakan antar \textit{gateway} yang dimiliki oleh \textit{user} berbeda. \textit{Gateway} juga harus memiliki bentuk yang ringkas dan tidak memerlukan komputer tambahan sehingga tidak perlu ada komputer konsumen yang menyala terus-menerus. Oleh karena itu, \saya~terpikir untuk membuat sebuah implementasi ZigBee \textit{gateway} berbasis GUI (\textit{Graphical User Interface}) dengan menggunakan Raspberry Pi untuk menyelesaikan masalah yang disebutkan sebelumnya.
 
 
 %-----------------------------------------------------------------------------%
@@ -23,28 +24,36 @@ Namun, penulis merasa masih ada yang bisa ditingkatkan dari implementasi \textit
 %-----------------------------------------------------------------------------%
 Masalah yang ingin diselesaikan dalam tugas akhir ini adalah bagaimana membuat sebuah \textit{gateway} yang dapat menghubungkan perangkat yang dimiliki konsumen dengan \plat~\iot~yang menggunakan pendekatan sosial media. \textit{Gateway} harus bisa digunakan oleh \eu~dengan mudah dan dapat berkomunikasi dengan \plat~yang diinginkan. Secara spesifik, rumusan masalah dalam tugas akhir ini dapat dituangkan ke dalam pertanyaan-pertanyaan berikut:
 \begin{enumerate}
-	\item Bagaimana membuat ZigBee \textit{gateway} dengan menggunakan Raspberry Pi
-	\item Bagaimana membuat \textit{gateway} yang bisa digunakan oleh \eu~dengan mudah?
-	\item Bagaimana model komunikasi yang baik agar \textit{gateway} dapat terhubung dengan \plat~ berbasis sosial media yang menargetkan pengguna \eu?
-\end{enumerate}
-
-
-\section{Ruang Lingkup Pengerjaan}
-Ruang lingkup implementasi \textit{generic gateway} untuk \plat~\iot~berbasis sosial media dengan target konsumen \eu~adalah sebagai berikut:
-\begin{enumerate}
-	\item \textit{Device} yang akan bisa dihubungkan dibatasi pada perangkat yang menggunakan implementasi ZigBee dengan \textit{profile Light Link}.
-	\item Implementasi ZigBee \textit{coordinator} yang digunakan adalah implementasi yang telah disediakan oleh pihak dresden, yaitu deConz.
-	%\item Implementasi ZigBee \textit{coordinator} adalah implementasi yang telah dibuat oleh Nisrina Luthfiyati\cite{SkripsiNina}.
-	\item Implementasi \textit{gateway} akan berdasarkan pada implementasi \textit{gateway} yang telah dibuat oleh Fauziah Rahmawati\cite{SkripsiFarah}.
-	\item \textit{Platform} yang akan digunakan sebagai acuan adalah \plat~yang sedang dikembangkan oleh \saya~dan teman-teman \saya.
-	\item Perangkat yang digunakan adalah Raspberry Pi Model B dengan sistem operasi Raspbian.
-	
+	\item Bagaimana membuat ZigBee \textit{gateway} berbasis GUI dengan menggunakan Raspberry Pi?
+	\item Bagaimana model komunikasi yang baik agar \textit{gateway} dapat terhubung dengan \plat~\iot~berbasis sosial media?
 \end{enumerate}
 
 %-----------------------------------------------------------------------------%
 \section{Tujuan}
 %-----------------------------------------------------------------------------%
-Tujuan dari tugas akhir ini adalah menghasilkan sebuah \textit{gateway} yang dapat mengirimkan informasi dari perangkat ZigBee ke internet. \textit{Gateway} yang dihasilkan diharapkan dapat mudah digunakan oleh \eu~. \textit{Gateway} juga dikembangkan dengan berpatokan pada \plat~\iot~yang berbasis sosial media. 
+Tujuan dari tugas akhir ini adalah menghasilkan sebuah perangkat \textit{gateway} yang dapat mengirimkan informasi dari jaringan lampu ZigBee ke internet. Perangkat \textit{gateway} yang dihasilkan dapat dioperasikan menggunakan GUI. \textit{Gateway} juga dikembangkan dengan berpatokan pada \plat~\iot~yang berbasis sosial media. 
+
+\section{Posisi Penelitian}
+
+Tugas akhir ini merupakan salah satu bagian dari satu topik besar, yaitu \textit{Social Internet of Things platform} dengan pendekatan menggunakan \textit{social media}. Pengerjaan topik besar ini dilakukan dalam satu kelompok yang dibimbing oleh Bapak Bob Hardian, seorang dosen di Fakultas Ilmu Komputer UI. Arsitektur \plat~yang akan dibuat bisa dilihat pada gambar \ref{fig:arsitektur-siot}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=.9\textwidth]{pics/rancangan-siot.PNG}
+	\caption{Arsitektur \textit{platform} yang dibuat}
+	\label{fig:arsitektur-siot}
+\end{figure}
+
+Penjelasan lebih mendetail akan dijelaskan pada Bab 3. Pembagian topik lebih spesifik dari topik besar tersebut adalah:
+\begin{enumerate}
+	\item \textit{Social Hub} akan dikerjakan oleh Jouvy Alif Pradewo.
+	\item \textit{Mash Up Tools} akan dikerjakan oleh Muhammad Redho Ayassa.
+	\item \textit{Analytics} Bagian ini belum akan dikerjakan.
+	\item \textit{Pub-Sub System} akan dikerjakan oleh Abdullah Izzuddiin Alqassam.
+	\item \textit{Things Management} akan dikerjakan oleh Prakoso Adi Nugroho.
+	\item \textit{ZigBee Gateway} akan oleh dikerjakan oleh \saya~, Luqman Sungkar dalam tugas akhir ini.
+	
+\end{enumerate}
 
 %-----------------------------------------------------------------------------%
 \section{Tahapan Pengerjaan}
@@ -56,24 +65,40 @@ Pengerjaan dari tugas akhir ini akan dilakukan dengan tahapan sebagai berikut:
 	Sebelum memulai merancang dan melakukan implementasi, penulis harus memahami beberapa konsep yang berkaitan dengan apa yang ingin penulis buat. Beberapa konsep tersebut diantaranya, \iot, ZigBee, \textit{MQTT}, \siot, dan \textit{gateway}. Penulis juga akan mempelajari implementasi \textit{coordinator} yang telah dikerjakan oleh Nisrina Luthfiyati\cite{SkripsiNina} dan implementasi \textit{gateway} yang telah dikerjakan oleh Fauziah Rahmawati\cite{SkripsiFarah}.
 	\item Analisis dan Perancangan
 	
-	Setelah melakukan studi literatur, penulis akan menganalisis kebutuhan dari \textit{gateway} yang akan dibuat. Dari hasil analisis tersebut, penulis akan merancang implementasi dari \textit{gateway} tersebut. Hal yang akan ditentukan dalam perancangan ini mencakup skema komunikasi antara \textit{gateway} dengan \plat~yang akan digunakan, skema komunikasi di dalam \textit{gateway}, serta desain pesan yang akan dikirim antara \textit{gateway} dengan \plat~yang akan digunakan.
+	Setelah melakukan studi literatur, penulis akan menganalisis kebutuhan dari \textit{gateway} yang akan dibuat. Dari hasil analisis tersebut, penulis akan merancang implementasi dari \textit{gateway} tersebut. Hal yang akan ditentukan dalam perancangan ini mencakup skema komunikasi antara \textit{gateway} dengan \plat~yang digunakan, skema komunikasi di dalam \textit{gateway}, serta desain pesan yang akan dikirim antara \textit{gateway} dengan \plat~yang digunakan.
 	\item Implementasi
 	
 	Setelah berhasil melakukan perancangan, penulis akan melakukan implementasi sesuai rancangan yang dibuat. Hasil rancangan akan berupa perangkat \textit{gateway} dan implementasi \textit{software}. Pada tahap ini, penulis akan menggunakan \textit{tools} dan SDK yang sudah ada untuk memudahkan proses implementasi
-	\item Uji Coba dan Analisis Hasil
+	\item Uji Coba
 	
-	Setelah melakukan implementasi, penulis harus menguji perangkat yang sudah dibuat untuk memastikan apakah perangkat berjalan sesuai dengan kebutuhan yang telah ditentukan. Setelah dilakukan pengujian, penulis akan menganalisis hasil pengujian tersebut
+	Setelah melakukan implementasi, penulis harus menguji perangkat yang sudah dibuat untuk memastikan apakah perangkat berjalan sesuai dengan kebutuhan yang telah ditentukan.
 	\item Penarikan Kesimpulan
 	
-	Setelah melakukan pengujian terhadap hasil implementasi, penulis dapat menarik kesimpulan dari seluruh kegiatan pengerjaan tugas akhir ini.
+	Setelah melakukan pengujian terhadap hasil implementasi, penulis akan melakukan analisis terhadap hasil pengujian, dan akhirnya dapat menarik kesimpulan dari seluruh kegiatan pengerjaan tugas akhir ini.
 \end{enumerate}
 
+\section{Ruang Lingkup Pengerjaan}
+Ruang lingkup implementasi \textit{ZigBee gateway} untuk \plat~\iot~berbasis sosial media dengan target konsumen \eu~adalah sebagai berikut:
+\begin{enumerate}
+	\item Perangkat yang akan bisa dihubungkan dibatasi pada perangkat yang menggunakan implementasi ZigBee dengan \textit{profile Light Link}.
+	\item Implementasi ZigBee \textit{coordinator} yang digunakan adalah implementasi yang telah disediakan oleh pihak dresden, yaitu deCONZ.
+	%\item Implementasi ZigBee \textit{coordinator} adalah implementasi yang telah dibuat oleh Nisrina Luthfiyati\cite{SkripsiNina}.
+	\item Implementasi \textit{gateway} akan berdasarkan pada implementasi \textit{gateway} yang telah dibuat oleh Fauziah Rahmawati\cite{SkripsiFarah}.
+	\item \textit{Platform} yang akan digunakan sebagai acuan adalah \plat~yang disebutkan dalam posisi penelitian.
+	\item Perangkat yang digunakan adalah Raspberry Pi Model B dengan sistem operasi Raspbian.
+	%\item Maksud dari ditargetkan untuk \eu~adalah:
+	%\begin{itemize}
+	%	\item Perangkat \textit{gateway} dapat digunakan tanpa perlu dilakukan \textit{set up} terlebih dahulu oleh penggunanya.
+	%	\item Aplikasi atau \textit{tools} yang diperlukan berjalan secara otomatis ketika perangkat dinyalakan.
+	%	\item Pengguna tidak perlu memasukkan perintah melalui \textit{command line} untuk bisa mengoperasikan perangkat.
+	%\end{itemize}
+\end{enumerate}
 
 %-----------------------------------------------------------------------------%
 \section{Sistematika Penulisan Laporan}
 %-----------------------------------------------------------------------------%
 Sistematika penulisan laporan tugas akhir ini adalah sebagai berikut:
-\begin{itemize}
+\begin{enumerate}
 	\item Bab 1 \babSatu \\
 	Bab ini berisi latar belakang pengerjaan tugas akhir, rumusan-rumusan masalah, ruang lingkup pengerjaan, tujuan dari tugas akhir, tahapan pengerjaan yang akan dijalani oleh penulis, dan sistematika dari penulisan laporan ini.
 	\item Bab 2 \babDua \\
@@ -86,5 +111,5 @@ Sistematika penulisan laporan tugas akhir ini adalah sebagai berikut:
 	Bab ini akan menjelaskan tentang mekanisme pengujian yang dilakukan penulis terhadap \textit{gateway} yang dibuat. Pada bab ini juga hasil dari pengujian akan ditampilkan dan dilakukan analisis dari hasil pengujian tersebut.
 	\item Bab 6 \kesimpulan \\
 	Bab ini akan memberikan kesimpulan dari hasil implementasi \textit{gateway} yang dilakukan oleh penulis. Penulis juga akan memberikan saran dan ide yang dapat digunakan untuk pengembangan selanjutnya.
-\end{itemize}
+\end{enumerate}
 

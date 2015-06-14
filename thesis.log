@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  7 JUN 2015 19:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  14 JUN 2015 17:42
 entering extended mode
 **thesis.tex
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.tex"
@@ -407,6 +407,34 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks25
 \@floatcapt=\box31
 ))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count120
+\lst@gtempboxa=\box32
+\lst@token=\toks26
+\lst@length=\count121
+\lst@currlwidth=\dimen138
+\lst@column=\count122
+\lst@pos=\count123
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count124
+\lst@lineno=\count125
+\lst@maxwidth=\dimen141
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count126
+\lst@skipnumbers=\count127
+\lst@framebox=\box33
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
 Package: biblatex 2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
 
@@ -419,52 +447,52 @@ Package: etoolbox 2015/03/19 v2.1d e-TeX tools for LaTeX (JAW)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count120
+\et@xins=\count128
 )
-\etb@tempcnta=\count121
+\etb@tempcnta=\count129
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count122
+\lrq@indent=\count130
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count123
-\c@listtotal=\count124
-\c@listcount=\count125
-\c@liststart=\count126
-\c@liststop=\count127
-\c@citecount=\count128
-\c@citetotal=\count129
-\c@multicitecount=\count130
-\c@multicitetotal=\count131
-\c@instcount=\count132
-\c@maxnames=\count133
-\c@minnames=\count134
-\c@maxitems=\count135
-\c@minitems=\count136
-\c@citecounter=\count137
-\c@savedcitecounter=\count138
-\c@uniquelist=\count139
-\c@uniquename=\count140
-\c@refsection=\count141
-\c@refsegment=\count142
-\c@maxextrayear=\count143
-\c@maxextraalpha=\count144
-\c@abbrvpenalty=\count145
-\c@highnamepenalty=\count146
-\c@lownamepenalty=\count147
-\c@maxparens=\count148
-\c@parenlevel=\count149
-\blx@tempcnta=\count150
-\blx@tempcntb=\count151
-\blx@tempcntc=\count152
-\blx@maxsection=\count153
-\blx@maxsegment=\count154
-\blx@notetype=\count155
-\blx@parenlevel@text=\count156
-\blx@parenlevel@foot=\count157
+\c@tabx@nest=\count131
+\c@listtotal=\count132
+\c@listcount=\count133
+\c@liststart=\count134
+\c@liststop=\count135
+\c@citecount=\count136
+\c@citetotal=\count137
+\c@multicitecount=\count138
+\c@multicitetotal=\count139
+\c@instcount=\count140
+\c@maxnames=\count141
+\c@minnames=\count142
+\c@maxitems=\count143
+\c@minitems=\count144
+\c@citecounter=\count145
+\c@savedcitecounter=\count146
+\c@uniquelist=\count147
+\c@uniquename=\count148
+\c@refsection=\count149
+\c@refsegment=\count150
+\c@maxextrayear=\count151
+\c@maxextraalpha=\count152
+\c@abbrvpenalty=\count153
+\c@highnamepenalty=\count154
+\c@lownamepenalty=\count155
+\c@maxparens=\count156
+\c@parenlevel=\count157
+\blx@tempcnta=\count158
+\blx@tempcntb=\count159
+\blx@tempcntc=\count160
+\blx@maxsection=\count161
+\blx@maxsegment=\count162
+\blx@notetype=\count163
+\blx@parenlevel@text=\count164
+\blx@parenlevel@foot=\count165
 \labelnumberwidth=\skip69
 \labelalphawidth=\skip70
 \shorthandwidth=\skip71
@@ -476,75 +504,76 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibhang=\skip77
 \blx@auxin=\read1
 \blx@auxout=\write3
-\c@mincomprange=\count158
-\c@maxcomprange=\count159
-\c@mincompwidth=\count160
-\c@labelname=\count161
-\c@savedlabelname=\count162
-\c@author=\count163
-\c@savedauthor=\count164
-\c@shortauthor=\count165
-\c@savedshortauthor=\count166
-\c@editor=\count167
-\c@savededitor=\count168
-\c@editora=\count169
-\c@savededitora=\count170
-\c@editorb=\count171
-\c@savededitorb=\count172
-\c@editorc=\count173
-\c@savededitorc=\count174
-\c@shorteditor=\count175
-\c@savedshorteditor=\count176
-\c@bookauthor=\count177
-\c@savedbookauthor=\count178
-\c@translator=\count179
-\c@savedtranslator=\count180
-\c@annotator=\count181
-\c@savedannotator=\count182
-\c@commentator=\count183
-\c@savedcommentator=\count184
-\c@introduction=\count185
-\c@savedintroduction=\count186
-\c@foreword=\count187
-\c@savedforeword=\count188
-\c@afterword=\count189
-\c@savedafterword=\count190
-\c@holder=\count191
-\c@savedholder=\count192
-\c@namea=\count193
-\c@savednamea=\count194
-\c@nameb=\count195
-\c@savednameb=\count196
-\c@namec=\count197
-\c@savednamec=\count198
-\c@institution=\count199
-\c@savedinstitution=\count200
-\c@language=\count201
-\c@savedlanguage=\count202
-\c@location=\count203
-\c@savedlocation=\count204
-\c@organization=\count205
-\c@savedorganization=\count206
-\c@origlocation=\count207
-\c@savedoriglocation=\count208
-\c@origpublisher=\count209
-\c@savedorigpublisher=\count210
-\c@pageref=\count211
-\c@savedpageref=\count212
-\c@publisher=\count213
-\c@savedpublisher=\count214
-\c@lista=\count215
-\c@savedlista=\count216
-\c@listb=\count217
-\c@savedlistb=\count218
-\c@listc=\count219
-\c@savedlistc=\count220
-\c@listd=\count221
-\c@savedlistd=\count222
-\c@liste=\count223
-\c@savedliste=\count224
-\c@listf=\count225
-\c@savedlistf=\count226
+\c@mincomprange=\count166
+\c@maxcomprange=\count167
+\c@mincompwidth=\count168
+\c@labelname=\count169
+\c@savedlabelname=\count170
+\c@author=\count171
+\c@savedauthor=\count172
+\c@shortauthor=\count173
+\c@savedshortauthor=\count174
+\c@editor=\count175
+\c@savededitor=\count176
+\c@editora=\count177
+\c@savededitora=\count178
+\c@editorb=\count179
+\c@savededitorb=\count180
+\c@editorc=\count181
+\c@savededitorc=\count182
+\c@shorteditor=\count183
+\c@savedshorteditor=\count184
+\c@bookauthor=\count185
+\c@savedbookauthor=\count186
+\c@translator=\count187
+\c@savedtranslator=\count188
+\c@annotator=\count189
+\c@savedannotator=\count190
+\c@commentator=\count191
+\c@savedcommentator=\count192
+\c@introduction=\count193
+\c@savedintroduction=\count194
+\c@foreword=\count195
+\c@savedforeword=\count196
+\c@afterword=\count197
+\c@savedafterword=\count198
+\c@holder=\count199
+\c@savedholder=\count200
+\c@namea=\count201
+\c@savednamea=\count202
+\c@nameb=\count203
+\c@savednameb=\count204
+\c@namec=\count205
+\c@savednamec=\count206
+\c@institution=\count207
+\c@savedinstitution=\count208
+\c@language=\count209
+\c@savedlanguage=\count210
+\c@location=\count211
+\c@savedlocation=\count212
+\c@organization=\count213
+\c@savedorganization=\count214
+\c@origlocation=\count215
+\c@savedoriglocation=\count216
+\c@origpublisher=\count217
+\c@savedorigpublisher=\count218
+\c@pageref=\count219
+\c@savedpageref=\count220
+\c@publisher=\count221
+\c@savedpublisher=\count222
+\c@lista=\count223
+\c@savedlista=\count224
+\c@listb=\count225
+\c@savedlistb=\count226
+\c@listc=\count227
+\c@savedlistc=\count228
+\c@listd=\count229
+\c@savedlistd=\count230
+\c@liste=\count231
+\c@savedliste=\count232
+\c@listf=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\c@savedlistf=\count277
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -556,13 +585,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
 File: biblatex.def 
-\c@textcitecount=\count227
-\c@textcitetotal=\count228
-\c@textcitemaxnames=\count229
-\c@biburlnumpenalty=\count230
-\c@biburlucpenalty=\count231
-\c@biburllcpenalty=\count232
-\c@smartand=\count233
+\c@textcitecount=\count278
+\c@textcitetotal=\count279
+\c@textcitemaxnames=\count280
+\c@biburlnumpenalty=\count281
+\c@biburlucpenalty=\count282
+\c@biburllcpenalty=\count283
+\c@smartand=\count284
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -574,9 +603,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 File: standard.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
-Normal \count register pool exhausted, switching to extended pool.
-\c@bbx:relatedcount=\count277
-\c@bbx:relatedtotal=\count278
+\c@bbx:relatedcount=\count285
+\c@bbx:relatedtotal=\count286
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -611,8 +639,8 @@ Package biblatex Info: ... file 'english.lbx' found.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
 File: english.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count279
-\@quotereset=\count280
+\@quotelevel=\count287
+\@quotereset=\count288
 
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.aux"
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\sampul.aux")
@@ -627,34 +655,63 @@ File: english.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab1.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab2.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab3.aux")
-("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.aux")
-("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.aux")
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.aux"
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+
+LaTeX Warning: Label `code:timer' multiply defined.
+
+) ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.aux")
-("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\kesimpulan.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\markLampiran.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\lampiran.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 33.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 33
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 60.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 60
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-\AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 33.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 60.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -662,11 +719,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count281
+\c@section@level=\count289
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
 
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.out")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.out")
@@ -674,17 +731,17 @@ LaTeX Info: Redefining \nameref on input line 33.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
-\scratchdimen=\dimen138
-\scratchbox=\box33
-\nofMPsegments=\count283
-\nofMParguments=\count284
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count285
-\MPscratchDim=\dimen139
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count290
+\scratchdimen=\dimen142
+\scratchbox=\box35
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen143
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks28
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -722,7 +779,9 @@ LaTeX Info: Redefining \nameref on input line 33.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count296
 Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
@@ -765,16 +824,18 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                - Invalid format of field 'date'.
 
 )
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
+Package biblatex Info: Reference section=0 on input line 60.
+Package biblatex Info: Reference segment=0 on input line 60.
  ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\sampul.tex"
-<pics/makara.png, id=244, 154.86429pt x 154.34807pt>
+<pics/makara.png, id=268, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
 Package pdftex.def Info: pics/makara.png used on input line 14.
 (pdftex.def)             Requested size: 71.13188pt x 70.89497pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 24.
 
 [1
 
@@ -818,6 +879,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+
+Underfull \hbox (badness 1789) in paragraph at lines 15--16
+[]|\OT1/ptm/m/n/12 Implementasi Zig-Bee \OT1/ptm/m/it/12 Gate-way \OT1/ptm/m/n/
+12 Berba-sis GUI Meng-gu-nakan
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--19
 
@@ -874,10 +941,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 ])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 65.
+(hyperref)                removing `\uppercase' on input line 92.
 
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\pengantar.tex"
-<pics/creative_common.png, id=271, 759.83875pt x 645.41125pt>
+<pics/creative_common.png, id=297, 759.83875pt x 645.41125pt>
 File: pics/creative_common.png Graphic file (type png)
 
 <use pics/creative_common.png>
@@ -891,7 +958,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 
  <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/creative_common.png (PNG copy)
 >]
-<pics/mark.png, id=287, 336.25626pt x 66.2475pt>
+<pics/mark.png, id=312, 336.25626pt x 66.2475pt>
 File: pics/mark.png Graphic file (type png)
  <use pics/mark.png>
 Package pdftex.def Info: pics/mark.png used on input line 61.
@@ -914,6 +981,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
 
 ]) ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\abstrak.tex"
+Underfull \hbox (badness 1052) in paragraph at lines 15--16
+[]|\OT1/ptm/m/n/12 Implementasi Zig-Bee \OT1/ptm/m/it/12 Gate-way \OT1/ptm/m/n/
+12 Berba-sis GUI Meng-gu-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
@@ -1006,23 +1079,34 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 
 ]
-("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.lot")
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.lot" [14
+
+
+])
 \tf@lot=\write7
- [14
 
 
-]
-("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab1.tex"
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab1.tex"
 BAB 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+[]
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 
+l.16 
       [1
 
 
@@ -1034,9 +1118,29 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
-Underfull \hbox (badness 4341) in paragraph at lines 33--34
-\OT1/ptm/m/n/12 Ruang lingkup im-ple-men-tasi \OT1/ptm/m/it/12 generic gate-way
+[2] <pics/rancangan-siot.PNG, id=675, 985.7628pt x 347.8596pt>
+File: pics/rancangan-siot.PNG Graphic file (type png)
+
+<use pics/rancangan-siot.PNG>
+Package pdftex.def Info: pics/rancangan-siot.PNG used on input line 42.
+(pdftex.def)             Requested size: 358.50229pt x 126.50856pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-siot.PNG>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+Underfull \hbox (badness 4846) in paragraph at lines 81--82
+\OT1/ptm/m/n/12 Ruang lingkup im-ple-men-tasi \OT1/ptm/m/it/12 Zig-Bee gate-way
  \OT1/ptm/m/n/12 un-tuk \OT1/ptm/m/it/12 plat-form in-ter-net of
  []
 
@@ -1046,24 +1150,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3]
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 77.
-
+[5])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4])
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[5] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab2.tex"
+[6] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab2.tex"
 BAB 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1071,18 +1165,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 6.
-[6
+[7
 
 
 
 ]
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[7]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -1096,7 +1183,17 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] <pics/arsitektur-zigbee-gateway.PNG, id=593, 573.64313pt x 344.03531pt>
+[9]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 29.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10] <pics/arsitektur-zigbee-gateway.PNG, id=755, 573.64313pt x 344.03531pt>
 File: pics/arsitektur-zigbee-gateway.PNG Graphic file (type png)
 
 <use pics/arsitektur-zigbee-gateway.PNG>
@@ -1110,7 +1207,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/arsitektur-zigbee-gateway.P
+[11 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/arsitektur-zigbee-gateway.P
 NG>]
 Underfull \hbox (badness 1147) in paragraph at lines 59--60
 []\OT1/ptm/m/n/12 MQTT di de-sain agar segala kom-plek-si-tas mekanisme pen-gi-
@@ -1129,14 +1226,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] <pics/mqtt-topic.PNG, id=618, 891.33pt x 214.8828pt>
+[12] <pics/mqtt-topic.PNG, id=779, 891.33pt x 214.8828pt>
 File: pics/mqtt-topic.PNG Graphic file (type png)
 
 <use pics/mqtt-topic.PNG>
 Package pdftex.def Info: pics/mqtt-topic.PNG used on input line 72.
 (pdftex.def)             Requested size: 358.50229pt x 86.42702pt.
 
-<pics/single-level-wildcard.PNG, id=624, 691.383pt x 477.9456pt>
+<pics/single-level-wildcard.PNG, id=785, 691.383pt x 477.9456pt>
 File: pics/single-level-wildcard.PNG Graphic file (type png)
 
 <use pics/single-level-wildcard.PNG>
@@ -1149,8 +1246,8 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/mqtt-topic.PNG>]
-<pics/multi-level-wildcard.PNG, id=632, 833.0322pt x 477.9456pt>
+[13 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/mqtt-topic.PNG>]
+<pics/multi-level-wildcard.PNG, id=793, 833.0322pt x 477.9456pt>
 File: pics/multi-level-wildcard.PNG Graphic file (type png)
 
 <use pics/multi-level-wildcard.PNG>
@@ -1163,7 +1260,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/single-level-wildcard.PNG> 
+[14 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/single-level-wildcard.PNG> 
 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/multi-level-wildcard.PNG>]
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab3.tex"
 BAB 3.
@@ -1177,17 +1274,15 @@ Underfull \hbox (badness 1478) in paragraph at lines 7--8
 /ptm/m/it/12 gate-way \OT1/ptm/m/n/12 yang akan
  []
 
-<pics/rancangan-siot.PNG, id=642, 985.7628pt x 347.8596pt>
 File: pics/rancangan-siot.PNG Graphic file (type png)
-
 <use pics/rancangan-siot.PNG>
 Package pdftex.def Info: pics/rancangan-siot.PNG used on input line 11.
 (pdftex.def)             Requested size: 358.50229pt x 126.50856pt.
- [14
+ [15
 
 
 
- <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-siot.PNG>]
+]
 Underfull \hbox (badness 5022) in paragraph at lines 32--33
 []\OT1/ptm/m/n/12 Seperti yang telah dise-butkan se-belum-nya, seir-ing de-ngan
  se-makin
@@ -1199,13 +1294,13 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[16]
 Underfull \hbox (badness 3019) in paragraph at lines 45--46
 \OT1/ptm/m/n/12 Dalam tu-gas akhir ini di-im-ple-men-tasikan se-buah perangkat 
 \OT1/ptm/m/it/12 gate-way \OT1/ptm/m/n/12 yang
  []
 
-<pics/rancangan-sistem.PNG, id=658, 955.4094pt x 455.7828pt>
+<pics/rancangan-sistem.PNG, id=818, 955.4094pt x 455.7828pt>
 File: pics/rancangan-sistem.PNG Graphic file (type png)
 
 <use pics/rancangan-sistem.PNG>
@@ -1218,7 +1313,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] <pics/rancangan-gateway.PNG, id=666, 887.4756pt x 490.9542pt>
+[17] <pics/rancangan-gateway.PNG, id=825, 887.4756pt x 490.9542pt>
 File: pics/rancangan-gateway.PNG Graphic file (type png)
 
 <use pics/rancangan-gateway.PNG>
@@ -1231,32 +1326,20 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-sistem.PNG>]
+[18 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-sistem.PNG>]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-gateway.PNG>]
-<pics/raspberry.jpg, id=678, 1369.115pt x 770.88pt>
-File: pics/raspberry.jpg Graphic file (type jpg)
- <use pics/raspberry.jpg>
-Package pdftex.def Info: pics/raspberry.jpg used on input line 75.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+[19 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-gateway.PNG>]
+<pics/deCONZ-gui.png, id=837, 922.94812pt x 494.59781pt>
+File: pics/deCONZ-gui.png Graphic file (type png)
 
-<pics/raspbee.jpg, id=681, 1369.115pt x 770.88pt>
-File: pics/raspbee.jpg Graphic file (type jpg)
- <use pics/raspbee.jpg>
-Package pdftex.def Info: pics/raspbee.jpg used on input line 84.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
-
-<pics/raspberry+raspbee.jpg, id=682, 1369.115pt x 770.88pt>
-File: pics/raspberry+raspbee.jpg Graphic file (type jpg)
-
-<use pics/raspberry+raspbee.jpg>
-Package pdftex.def Info: pics/raspberry+raspbee.jpg used on input line 90.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+<use pics/deCONZ-gui.png>
+Package pdftex.def Info: pics/deCONZ-gui.png used on input line 85.
+(pdftex.def)             Requested size: 358.50229pt x 192.11502pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1264,22 +1347,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/raspberry.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 99--101
-[]
- []
+[20] <pics/deCONZ-web.png, id=843, 1027.58907pt x 484.81125pt>
+File: pics/deCONZ-web.png Graphic file (type png)
 
-
-Underfull \hbox (badness 1264) in paragraph at lines 99--101
-\OT1/ptm/m/n/12 de-CONZ meru-pakan paket perangkat lu-nak yang dibuat dan dise-
-barkan se-
- []
-
-
-Underfull \hbox (badness 1917) in paragraph at lines 99--101
-\OT1/ptm/m/n/12 cara gratis oleh Dres-den Elek-tronik. Apli-kasi ini da-pat di-
-gu-nakan un-tuk
- []
+<use pics/deCONZ-web.png>
+Package pdftex.def Info: pics/deCONZ-web.png used on input line 94.
+(pdftex.def)             Requested size: 358.50229pt x 169.13905pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1287,25 +1360,15 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/raspbee.jpg> <D:/backup/Kul
-iah/Semester 8/TA/tugasAkhir/pics/raspberry+raspbee.jpg>]
-File: pics/raspberry+raspbee.jpg Graphic file (type jpg)
+[21 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/deCONZ-gui.png> <D:/backup/
+Kuliah/Semester 8/TA/tugasAkhir/pics/deCONZ-web.png>]
+<pics/rancangan-pengiriman-pesan.png, id=852, 907.7112pt x 263.0628pt>
+File: pics/rancangan-pengiriman-pesan.png Graphic file (type png)
 
-<use pics/raspberry+raspbee.jpg>
-Package pdftex.def Info: pics/raspberry+raspbee.jpg used on input line 106.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[21]
-File: pics/raspberry+raspbee.jpg Graphic file (type jpg)
- <use pics/raspberry+raspbee.jpg>
-Package pdftex.def Info: pics/raspberry+raspbee.jpg used on input line 115.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+<use pics/rancangan-pengiriman-pesan.png>
+Package pdftex.def Info: pics/rancangan-pengiriman-pesan.png used on input line
+ 112.
+(pdftex.def)             Requested size: 358.50229pt x 103.89862pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1314,17 +1377,26 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
-[]
+Underfull \hbox (badness 2726) in paragraph at lines 120--121
+[]\OT1/ptm/m/n/12 Selanjutnya, \OT1/ptm/m/it/12 plat-form \OT1/ptm/m/n/12 juga 
+memi-liki ke-bu-tuhan un-tuk menge-tahui je-nis
  []
 
-<pics/rancangan-pengiriman-pesan.png, id=703, 907.7112pt x 263.0628pt>
-File: pics/rancangan-pengiriman-pesan.png Graphic file (type png)
 
-<use pics/rancangan-pengiriman-pesan.png>
-Package pdftex.def Info: pics/rancangan-pengiriman-pesan.png used on input line
- 134.
-(pdftex.def)             Requested size: 358.50229pt x 103.89862pt.
+Underfull \hbox (badness 1024) in paragraph at lines 120--121
+\OT1/ptm/m/n/12 kat-e-gori yang di-gu-nakan adalah \OT1/pcr/m/n/12 ledlight\OT1
+/ptm/m/n/12 . Ke-mu-dian, \OT1/ptm/m/it/12 gate-way \OT1/ptm/m/n/12 juga perlu
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 122--122
+[]\OT1/ptm/b/n/14.4 Rancangan Translasi Pe-san MQTT Men-jadi Per-in-tah
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+[]
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1334,20 +1406,36 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [23 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-pengiriman-pesan.
 png>]
-Underfull \hbox (badness 2726) in paragraph at lines 142--143
-[]\OT1/ptm/m/n/12 Selanjutnya, \OT1/ptm/m/it/12 plat-form \OT1/ptm/m/n/12 juga 
-memi-liki ke-bu-tuhan un-tuk menge-tahui je-nis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
-[]
- []
-
-
-Underfull \hbox (badness 4266) in paragraph at lines 151--152
+Underfull \hbox (badness 4266) in paragraph at lines 129--130
 []\OT1/ptm/m/n/12 Berikut meru-pakan con-toh topik dan pe-san yang dikir-imkan 
 un-tuk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+[]|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 143.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
+
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 135--148
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+[]|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
+ []
+
+
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 159--172
+ [][] 
  []
 
 
@@ -1357,49 +1445,32 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 []|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
  []
 
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 165.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
-File: omspcr.fd 
-)
-LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 165.
-
-Overfull \hbox (53.19272pt too wide) in paragraph at lines 157--170
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 182--195
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 []|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
  []
 
 
-Overfull \hbox (53.19272pt too wide) in paragraph at lines 181--194
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 205--218
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 []|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
  []
 
 
-Overfull \hbox (53.19272pt too wide) in paragraph at lines 204--217
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
-[]|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
- []
-
-
-Overfull \hbox (53.19272pt too wide) in paragraph at lines 227--240
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 228--241
  [][] 
  []
 
@@ -1410,22 +1481,41 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Underfull \hbox (badness 4266) in paragraph at lines 245--246
+[]\OT1/ptm/m/n/12 Berikut meru-pakan con-toh topik dan pe-san yang dikir-imkan 
+un-tuk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 []|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
  []
 
 
-Overfull \hbox (53.19272pt too wide) in paragraph at lines 250--263
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 251--264
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--270
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+[]|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
  []
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 271.
+
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 275--288
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+[]|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
+ []
+
+
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 298--311
+ [][] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -1433,124 +1523,97 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [26]
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+[]|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
+ []
+
+
+Overfull \hbox (4.7788pt too wide) in paragraph at lines 331--332
+[]|\OT1/pcr/m/n/12 [\OMS/cmsy/m/n/12 f\OT1/pcr/m/n/12 "success":\OMS/cmsy/m/n/1
+2 f\OT1/pcr/m/n/12 "/groups/[idLokal]/action/hue":45000\OMS/cmsy/m/n/12 gg\OT1/
+pcr/m/n/12 ]| 
+ []
+
+
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 321--334
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+[]|\OT1/pcr/m/n/12 PUT http://localhost:8080/api/LUQMANGWTA/
+ []
+
+
+Overfull \hbox (53.19272pt too wide) in paragraph at lines 344--357
+ [][] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27])
+[27]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.tex"
+[28]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.tex"
 BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 36--41
-\OT1/ptm/m/n/12 Berkas ini berisi cara pe-meng-galan be-be-rapa kata dalam ba-h
-asa In-done-sia.
- []
-
-
-LaTeX Warning: Citation 'latex.intro' on page 29 undefined on input line 53.
-
-[29
-
-
-
-])
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[30] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.tex"
-BAB 5.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 2.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-LaTeX Warning: there is no bold Symbol font on input line 20.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-
-Overfull \hbox (27.94829pt too wide) in paragraph at lines 34--36
-[] 
- []
+<pics/raspberry.jpg, id=929, 1369.115pt x 770.88pt>
+File: pics/raspberry.jpg Graphic file (type jpg)
+ <use pics/raspberry.jpg>
+Package pdftex.def Info: pics/raspberry.jpg used on input line 11.
+(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
 
 [31
 
 
 
-] <include.pdf, id=749, 597.51233pt x 845.0471pt>
-File: include.pdf Graphic file (type pdf)
- <use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 57.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
+ <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/raspberry.jpg>]
+<pics/raspbee.jpg, id=936, 1369.115pt x 770.88pt>
+File: pics/raspbee.jpg Graphic file (type jpg)
+ <use pics/raspbee.jpg>
+Package pdftex.def Info: pics/raspbee.jpg used on input line 20.
+(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
 
-<use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 57.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+<pics/raspberry+raspbee.jpg, id=937, 1369.115pt x 770.88pt>
+File: pics/raspberry+raspbee.jpg Graphic file (type jpg)
+
+<use pics/raspberry+raspbee.jpg>
+Package pdftex.def Info: pics/raspberry+raspbee.jpg used on input line 26.
+(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+[]
+ []
 
 
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
-[32] <include.pdf, id=756, page=1, 597.51233pt x 845.0471pt>
-File: include.pdf Graphic file (type pdf)
-
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
-
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1558,19 +1621,58 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: include.pdf Graphic file (type pdf)
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
- [33 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/include.pdf>]
-File: include.pdf Graphic file (type pdf)
- <use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 64.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 64.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+[32 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/raspbee.jpg> <D:/backup/Kul
+iah/Semester 8/TA/tugasAkhir/pics/raspberry+raspbee.jpg>]
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 42.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 42--42
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 42--42
+[][][][][][][] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 42.
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 49--49
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 49--49
+[][][][][][][] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/it' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/it' tried instead on input line 50.
+LaTeX Font Info:    Font shape `OT1/pcr/b/it' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/sl' tried instead on input line 50.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 63--63
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 63--63
+[][][][][][][] 
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1579,72 +1681,558 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [34]
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 80--80
+[][][][][][][] 
+ []
 
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 
-[35])
+Overfull \hbox (6.0pt too wide) in paragraph at lines 80--80
+[][][][][][][] 
+ []
+
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\code/run.java")
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[36] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.tex"
+[35]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 84--84
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 84--84
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 99--99
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 99--99
+[][][][][][][] 
+ []
+
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\code/checkCommand.java"
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37] ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 110--110
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 110--110
+[][][][][][][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 125--125
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 125--125
+[][][][][][][] 
+ []
+
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\code/setAttr.php")
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 130--130
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 130--130
+[][][][][][][] 
+ []
+
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\code/createGroup.php")
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 135--135
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 135--135
+[][][][][][][] 
+ []
+
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\code/login.php")
+Overfull \hbox (6.0pt too wide) in paragraph at lines 140--140
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 140--140
+[][][][][][][] 
+ []
+
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\code/attrRegister.php"
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41])
+Overfull \hbox (6.0pt too wide) in paragraph at lines 144--144
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 144--144
+[][][][][][][] 
+ []
+
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\code/registerThings.php"
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43] ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 154--154
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 154--154
+[][][][][][][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 171--171
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 171--171
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 182--182
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 182--182
+[][][][][][][] 
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[45] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.tex"
+BAB 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+<pics/philips-hue.jpg, id=1262, 4336.2pt x 2441.12pt>
+File: pics/philips-hue.jpg Graphic file (type jpg)
+
+<use pics/philips-hue.jpg>
+Package pdftex.def Info: pics/philips-hue.jpg used on input line 13.
+(pdftex.def)             Requested size: 358.50229pt x 201.81206pt.
+ <pics/uji1.jpg, id=1263, 240.9pt x 85.82062pt>
+File: pics/uji1.jpg Graphic file (type jpg)
+
+<use pics/uji1.jpg>
+Package pdftex.def Info: pics/uji1.jpg used on input line 33.
+(pdftex.def)             Requested size: 298.75394pt x 106.44131pt.
+ [46
+
+
+
+ <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/philips-hue.jpg>] <pics/uji1x.
+jpg, id=1269, 457.71pt x 25.59563pt>
+File: pics/uji1x.jpg Graphic file (type jpg)
+
+<use pics/uji1x.jpg>
+Package pdftex.def Info: pics/uji1x.jpg used on input line 52.
+(pdftex.def)             Requested size: 298.75394pt x 16.70724pt.
+ <pics/uji2.jpg, id=1270, 1369.115pt x 770.88pt>
+File: pics/uji2.jpg Graphic file (type jpg)
+
+<use pics/uji2.jpg>
+Package pdftex.def Info: pics/uji2.jpg used on input line 71.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[47 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji1.jpg> <D:/backup/Kuliah
+/Semester 8/TA/tugasAkhir/pics/uji1x.jpg>]
+<pics/uji3.jpg, id=1277, 1369.115pt x 770.88pt>
+File: pics/uji3.jpg Graphic file (type jpg)
+ <use pics/uji3.jpg>
+Package pdftex.def Info: pics/uji3.jpg used on input line 90.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+<pics/uji4.jpg, id=1278, 1369.115pt x 770.88pt>
+File: pics/uji4.jpg Graphic file (type jpg)
+ <use pics/uji4.jpg>
+Package pdftex.def Info: pics/uji4.jpg used on input line 109.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji2.jpg> <D:/backup/Kuliah
+/Semester 8/TA/tugasAkhir/pics/uji3.jpg>]
+<pics/uji5.jpg, id=1285, 1369.115pt x 770.88pt>
+File: pics/uji5.jpg Graphic file (type jpg)
+ <use pics/uji5.jpg>
+Package pdftex.def Info: pics/uji5.jpg used on input line 128.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+<pics/uji6.jpg, id=1286, 1369.115pt x 770.88pt>
+File: pics/uji6.jpg Graphic file (type jpg)
+ <use pics/uji6.jpg>
+Package pdftex.def Info: pics/uji6.jpg used on input line 147.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[49 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji4.jpg> <D:/backup/Kuliah
+/Semester 8/TA/tugasAkhir/pics/uji5.jpg>]
+Underfull \hbox (badness 3364) in paragraph at lines 160--161
+[]|\OT1/ptm/m/n/12 Menekan tombol 'Buat Group', mengisi nama, ke-mu-dian
+ []
+
+<pics/uji8.jpg, id=1292, 1369.115pt x 770.88pt>
+File: pics/uji8.jpg Graphic file (type jpg)
+ <use pics/uji8.jpg>
+Package pdftex.def Info: pics/uji8.jpg used on input line 183.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[50 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji6.jpg>]
+<pics/uji9.jpg, id=1300, 1369.115pt x 770.88pt>
+File: pics/uji9.jpg Graphic file (type jpg)
+ <use pics/uji9.jpg>
+Package pdftex.def Info: pics/uji9.jpg used on input line 202.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+<pics/uji10.jpg, id=1301, 1369.115pt x 770.88pt>
+File: pics/uji10.jpg Graphic file (type jpg)
+ <use pics/uji10.jpg>
+Package pdftex.def Info: pics/uji10.jpg used on input line 221.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[51 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji8.jpg> <D:/backup/Kuliah
+/Semester 8/TA/tugasAkhir/pics/uji9.jpg>]
+<pics/uji11.jpg, id=1308, 4336.2pt x 2441.12pt>
+File: pics/uji11.jpg Graphic file (type jpg)
+ <use pics/uji11.jpg>
+Package pdftex.def Info: pics/uji11.jpg used on input line 240.
+(pdftex.def)             Requested size: 298.75394pt x 168.17671pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[52 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji10.jpg>]
+<pics/uji12.jpg, id=1315, 4336.2pt x 2441.12pt>
+File: pics/uji12.jpg Graphic file (type jpg)
+ <use pics/uji12.jpg>
+Package pdftex.def Info: pics/uji12.jpg used on input line 259.
+(pdftex.def)             Requested size: 298.75394pt x 168.17671pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[53 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji11.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[54 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji12.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+[]|\OT1/pcr/m/n/12 mosquitto[]sub -h 128.199.236.53 -t
+ []
+
+<pics/uji15.jpg, id=1327, 482.55281pt x 112.92188pt>
+File: pics/uji15.jpg Graphic file (type jpg)
+ <use pics/uji15.jpg>
+Package pdftex.def Info: pics/uji15.jpg used on input line 312.
+(pdftex.def)             Requested size: 298.75394pt x 69.91261pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji16.jpg, id=1328, 1369.115pt x 770.88pt>
+File: pics/uji16.jpg Graphic file (type jpg)
+ <use pics/uji16.jpg>
+Package pdftex.def Info: pics/uji16.jpg used on input line 333.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[55 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji15.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji17.jpg, id=1335, 1369.115pt x 770.88pt>
+File: pics/uji17.jpg Graphic file (type jpg)
+ <use pics/uji17.jpg>
+Package pdftex.def Info: pics/uji17.jpg used on input line 354.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji16.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji18.jpg, id=1341, 1369.115pt x 770.88pt>
+File: pics/uji18.jpg Graphic file (type jpg)
+ <use pics/uji18.jpg>
+Package pdftex.def Info: pics/uji18.jpg used on input line 375.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[57 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji17.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji19.jpg, id=1348, 1369.115pt x 770.88pt>
+File: pics/uji19.jpg Graphic file (type jpg)
+ <use pics/uji19.jpg>
+Package pdftex.def Info: pics/uji19.jpg used on input line 396.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji18.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji20.jpg, id=1354, 1369.115pt x 770.88pt>
+File: pics/uji20.jpg Graphic file (type jpg)
+ <use pics/uji20.jpg>
+Package pdftex.def Info: pics/uji20.jpg used on input line 417.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[59 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji19.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji21.jpg, id=1360, 1369.115pt x 770.88pt>
+File: pics/uji21.jpg Graphic file (type jpg)
+ <use pics/uji21.jpg>
+Package pdftex.def Info: pics/uji21.jpg used on input line 438.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji20.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji22.jpg, id=1366, 1369.115pt x 770.88pt>
+File: pics/uji22.jpg Graphic file (type jpg)
+ <use pics/uji22.jpg>
+Package pdftex.def Info: pics/uji22.jpg used on input line 459.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[61 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji21.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji23.jpg, id=1372, 1369.115pt x 770.88pt>
+File: pics/uji23.jpg Graphic file (type jpg)
+ <use pics/uji23.jpg>
+Package pdftex.def Info: pics/uji23.jpg used on input line 480.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji22.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji24.jpg, id=1378, 1369.115pt x 770.88pt>
+File: pics/uji24.jpg Graphic file (type jpg)
+ <use pics/uji24.jpg>
+Package pdftex.def Info: pics/uji24.jpg used on input line 501.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji23.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+[]|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
+ []
+
+<pics/uji25.jpg, id=1385, 1369.115pt x 770.88pt>
+File: pics/uji25.jpg Graphic file (type jpg)
+ <use pics/uji25.jpg>
+Package pdftex.def Info: pics/uji25.jpg used on input line 522.
+(pdftex.def)             Requested size: 298.75394pt x 168.20613pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji24.jpg>])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji25.jpg>]
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.tex"
 BAB 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-) [37
-
-
-
-] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\kesimpulan.tex"
-BAB 7.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 2.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-) [38
+) [66
 
 
 
@@ -1652,7 +2240,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
- [39
+ [67
 
 
 ] ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\markLampiran.tex"pdfTeX warning (
@@ -1669,14 +2257,14 @@ l.13 \end{titlepage}
 plicate ignored
 <to be read again> 
                    \relax 
-l.116 	\include{lampiran}
+l.143 	\include{lampiran}
                           [2
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
 
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.aux"
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\sampul.aux")
@@ -1694,43 +2282,38 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab4.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab5.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\bab6.aux")
-("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\kesimpulan.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\markLampiran.aux")
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\lampiran.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 323D8827D35655AC40A18CDABF030096;4206.
+(rerunfilecheck)             Checksum: 64DF23D69189EABFE615D081C6315A98;4981.
 
 
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                thesis
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'thesis.run.xml'.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 14403 strings out of 493921
- 229163 string characters out of 3144873
- 433034 words of memory out of 3000000
- 17118 multiletter control sequences out of 15000+200000
- 33800 words of font info for 63 fonts, out of 3000000 for 9000
+ 18364 strings out of 493921
+ 293147 string characters out of 3144873
+ 877953 words of memory out of 3000000
+ 20603 multiletter control sequences out of 15000+200000
+ 43980 words of font info for 87 fonts, out of 3000000 for 9000
  911 hyphenation exceptions out of 8191
- 44i,18n,49p,1688b,1042s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,16n,49p,1688b,2850s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmri8a.pfb>
-Output written on thesis.pdf (56 pages, 1794398 bytes).
+Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/urw/courier/ucrbo8a.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
+w/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (85 pages, 16238718 bytes).
 PDF statistics:
- 868 PDF objects out of 1000 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
- 589 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1565 PDF objects out of 1728 (max. 8388607)
+ 575 named destinations out of 1000 (max. 500000)
+ 737 words of extra memory for PDF output out of 10000 (max. 10000000)
 
