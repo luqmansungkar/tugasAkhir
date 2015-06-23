@@ -28,8 +28,13 @@ Di dalam Raspberry Pi tersebut dipasang berbagai aplikasi dan \textit{tools} yan
 	\label{fig:raspbeeraspberry}
 \end{figure}
 
-Selain Raspberry Pi dan RaspBee, dibutuhkan juga sebuah modul WiFi agar perangkat \textit{gateway} bisa menjadi sebuah \textit{access point} dan bisa terhubung ke \textit{access point} lain. Hal ini dibutuhkan agar pengguna bisa terhubung ke perangkat \textit{gateway} dan perangkat gateway bisa terhubung ke internet. Untuk ini, diperlukan sebuah modul WiFi yang bisa berperan sebagai \textit{access point} dan di saat yang sama melakukan hubungan dengan \textit{access point} lain. Karena keterbatasan perangkat yang ada, dalam tugas akhir ini akan digunakan dua buah WiFi \textit{dongle} dengan merek Tenda untuk menjadi sebuah modul WiFi yang diinginkan. 
-\todo{foto tenda}
+Selain Raspberry Pi dan RaspBee, dibutuhkan juga sebuah modul WiFi agar perangkat \textit{gateway} bisa menjadi sebuah \textit{access point} dan bisa terhubung ke \textit{access point} lain. Hal ini dibutuhkan agar pengguna bisa terhubung ke perangkat \textit{gateway} dan perangkat gateway bisa terhubung ke internet. Untuk ini, diperlukan sebuah modul WiFi yang bisa berperan sebagai \textit{access point} dan di saat yang sama melakukan hubungan dengan \textit{access point} lain. Karena keterbatasan perangkat yang ada, dalam tugas akhir ini akan digunakan dua buah WiFi \textit{dongle} dengan merek Tenda untuk menjadi sebuah modul WiFi yang diinginkan. Gambar \ref{fig:tenda} menunjukkan foto kedua WiFi \textit{dongle} yang digunakan pada tugas akhir ini.
+\begin{figure}
+	\centering
+	\includegraphics[width=.9\textwidth]{pics/tenda.jpg}
+	\caption{WiFi \textit{dongle} yang digunakan}
+	\label{fig:tenda}
+\end{figure}
 
 \section{Implementasi \textit{Gateway}}
 Implementasi \textit{gateway} pada tugas akhir ini adalah implementasi terkait pengiriman data ke \plat~atau menerima data dari \plat~dan disampaikan ke lampu yang dituju. Hal ini meliputi implementasi MQTT \textit{client} dan translasi pesan MQTT ke perintah REST untuk disampaikan ke deCONZ.

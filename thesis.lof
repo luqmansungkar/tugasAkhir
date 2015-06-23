@@ -1,47 +1,45 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces \textit {Creative Common License 1.0 Generic}\relax }}{v}{figure.caption.8}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2}{\ignorespaces Dokumen Dibuat dengan PDFLatex\relax }}{vi}{figure.caption.9}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Arsitektur \textit {platform} yang dibuat\relax }}{3}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Arsitektur \textit {platform} yang dibuat\relax }}{3}{figure.caption.12}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Arsitektur \textit {Gateway}\nobreakspace {}ZigBee\cite {zigbeeGateway2}\relax }}{11}{figure.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Contoh topik dalam MQTT \cite {hiveMQtopic}\relax }}{13}{figure.caption.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Contoh \textit {single level wildcard} \cite {hiveMQtopic}\relax }}{14}{figure.caption.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Contoh \textit {multi level wildcard} \cite {hiveMQtopic}\relax }}{14}{figure.caption.14}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Arsitektur \textit {Gateway}\nobreakspace {}ZigBee\cite {zigbeeGateway2}\relax }}{11}{figure.caption.13}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gambaran Umum \textit {Platform} Internet of Things\nobreakspace {}berbasis media sosial\relax }}{15}{figure.caption.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Contoh topik dalam MQTT \cite {hiveMQtopic}\relax }}{13}{figure.caption.14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Gambaran Umum Sistem\relax }}{18}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Contoh \textit {single level wildcard} \cite {hiveMQtopic}\relax }}{14}{figure.caption.15}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Gambaran Umum Gateway\relax }}{19}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Contoh \textit {multi level wildcard} \cite {hiveMQtopic}\relax }}{14}{figure.caption.16}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Tampilan Aplikasi deCONZ berbasis GUI\relax }}{21}{figure.caption.18}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Tampilan Aplikasi deCONZ berbasis web\relax }}{21}{figure.caption.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Gambaran Umum \textit {Platform} Internet of Things\nobreakspace {}berbasis media sosial\relax }}{15}{figure.caption.17}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Gambaran Umum Sistem\relax }}{18}{figure.caption.18}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Gambaran Umum Gateway\relax }}{19}{figure.caption.19}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Tampilan Aplikasi deCONZ berbasis GUI\relax }}{21}{figure.caption.20}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Tampilan Aplikasi deCONZ berbasis web\relax }}{21}{figure.caption.21}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Rancangan Mekanisme Pengiriman Pesan\relax }}{23}{figure.caption.22}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Rancangan Mekanisme Pengiriman Pesan\relax }}{23}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Raspberry Pi Model B\relax }}{31}{figure.caption.33}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Raspberry Pi Model B\relax }}{31}{figure.caption.31}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Perangkat RaspBee yang digunakan\relax }}{32}{figure.caption.34}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Perangkat RaspBee yang digunakan\relax }}{32}{figure.caption.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Perangkat RaspBee ketika dipasang pada Raspberry Pi\relax }}{32}{figure.caption.35}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Perangkat RaspBee ketika dipasang pada Raspberry Pi\relax }}{32}{figure.caption.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces WiFi \textit {dongle} yang digunakan\relax }}{33}{figure.caption.34}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Lampu Philips Hue yang digunakan untuk pengujian\relax }}{46}{figure.caption.36}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Lampu Philips Hue yang digunakan untuk pengujian\relax }}{47}{figure.caption.35}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }

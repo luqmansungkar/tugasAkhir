@@ -9,5 +9,17 @@ Dari hasil pengujian, dapat dilihat bahwa perangkat \textit{gateway} sudah dapat
 \section{Kesimpulan}
 Dalam tugas akhir ini, \saya~berhasil menghubungkan sebuah jaringan lampu berbasis ZigBee dengan sebuah \textit{platform} \iot~berbasis sosial media. Dalam tugas akhir ini, digunakan Raspberry Pi sebagai perangkat untuk menjalankan semua operasi terkait sehingga tidak diperlukan lagi komputer tambahan. Berdasarkan implementasi yang telah dilakukan, \saya~dapat mengambil beberapa kesimpulan, yaitu:
 \begin{enumerate}
-	\item sesuatu
+	\item Raspberry Pi dapat digunakan sebagai sebuah perangkat ZigBee \textit{gateway} dan menjalankan fungsinya dengan baik.
+	\item Perangkat \textit{gateway} yang dibuat dapat berkomunikasi dengan baik dengan \plat~yang ada dan dapat digunakan untuk mengendalikan jaringan lampu tanpa harus terhubung ke \plat.
+	\item Fungsi-fungsi untuk mengendalikan lampu dapat dilakukan melalui GUI dengan menggunakan API REST yang disediakan oleh deCONZ.
+	\item Penggunaan MQTT untuk mekanisme pengiriman pesan dari dan ke perangkat \textit{gateway} dapat berjalan dengan baik. Penggunaan topik MQTT membantu mempermudah proses implementasi sekaligus memberikan informasi yang dibutuhkan untuk membedakan banyak pengguna di dalam \plat. Dengan memberikan id pengguna pada topik, setiap perangkat \textit{gateway} dapat melakukan \textit{subscribe} hanya terhadap pesan yang relevan.
+\end{enumerate}
+
+\section{Saran}
+Setelah melakukan implementasi yang dijelaskan dalam tugas akhir ini, \saya~memiliki beberapa saran yang dapat digunakan untuk pengembangan sistem atau perangkat sejenis di masa depan:
+\begin{enumerate}
+	\item Implementasi \textit{coordinator} dapat dikembangkan sehingga dapat digunakan untuk mengontrol jenis perangkat ZigBee lainnya, seperti \textit{power outlet}, \textit{switch}, dan jenis perangkat dengan profil ZigBee lainnya.
+	\item Implementasi perangkat \textit{gateway} untuk terhubung ke \textit{access point} masih dapat ditingkatkan. Sebagai contoh, untuk implementasi pada tugas akhir ini perangkat hanya bisa dihubungakan dengan \textit{access point} yang tidak menggunakan proteksi.
+	\item Implementasi GUI untuk mengontrol lampu masih bisa ditingkatkan dalam hal \textit{user interface} dan \textit{user experience}.
+	\item Perlu ditambahkan mekanisme otorisasi dalam pertukaran pesan menggunakan MQTT, sehingga pesan tidak bisa diakses oleh pengguna yang tidak berhak.
 \end{enumerate}
