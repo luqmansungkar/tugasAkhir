@@ -7,12 +7,26 @@ Pada bab ini dijelaskan mengenai hasil pengujian, kesimpulan dari implementasi p
 Dari hasil pengujian, dapat dilihat bahwa perangkat \textit{gateway} sudah dapat beroperasi dan digunakan sesuai dengan tujuan. Perangkat \textit{gateway} dapat berperan sebagai sebuah \textit{access point} secara otomatis setelah perangkat dinyalakan. Perangkat \textit{gateway} juga kemudian dapat dihubungkan dengan \textit{access point} lainnya melalui halaman aplikasi web yang disediakan. Operasi untuk mengontrol lampu melalui halaman aplikasi web yang disediakan juga dapat dilakukan dengan sukses. Setelah terhubung ke internet, pengguna juga dapat mendaftarkan lampu atau \textit{group} ke \plat~dengan sukses. Perintah yang dikirimkan oleh \textit{pub-sub system} ke topik yang sesuai juga berhasil diterima dan dikerjakan dengan sukses. Terakhir, perangkat \textit{gateway} berhasil mengirimkan informasi mengenai kondisi setiap lampu atau \textit{group} terdaftar ke \textit{pub-sub system} setiap jangka waktu tertentu.
 
 \section{Kesimpulan}
-Dalam tugas akhir ini, \saya~berhasil menghubungkan sebuah jaringan lampu berbasis ZigBee dengan sebuah \textit{platform} \iot~berbasis sosial media. Dalam tugas akhir ini, digunakan Raspberry Pi sebagai perangkat untuk menjalankan semua operasi terkait sehingga tidak diperlukan lagi komputer tambahan. Berdasarkan implementasi yang telah dilakukan, \saya~dapat mengambil beberapa kesimpulan, yaitu:
+Dalam tugas akhir ini, \saya~berhasil menghubungkan sebuah jaringan lampu berbasis ZigBee dengan sebuah \textit{platform} \iot~berbasis media sosial. Dalam tugas akhir ini, digunakan Raspberry Pi sebagai perangkat untuk menjalankan semua operasi terkait sehingga tidak diperlukan lagi komputer tambahan. Berdasarkan implementasi yang telah dilakukan, \saya~dapat mengambil beberapa kesimpulan, yaitu:
 \begin{enumerate}
-	\item Raspberry Pi dapat digunakan sebagai sebuah perangkat ZigBee \textit{gateway} dan menjalankan fungsinya dengan baik.
-	\item Perangkat \textit{gateway} yang dibuat dapat berkomunikasi dengan baik dengan \plat~yang ada dan dapat digunakan untuk mengendalikan jaringan lampu tanpa harus terhubung ke \plat.
-	\item Fungsi-fungsi untuk mengendalikan lampu dapat dilakukan melalui GUI dengan menggunakan API REST yang disediakan oleh deCONZ.
-	\item Penggunaan MQTT untuk mekanisme pengiriman pesan dari dan ke perangkat \textit{gateway} dapat berjalan dengan baik. Penggunaan topik MQTT membantu mempermudah proses implementasi sekaligus memberikan informasi yang dibutuhkan untuk membedakan banyak pengguna di dalam \plat. Dengan memberikan id pengguna pada topik, setiap perangkat \textit{gateway} dapat melakukan \textit{subscribe} hanya terhadap pesan yang relevan.
+	%\item Raspberry Pi dapat digunakan sebagai sebuah perangkat ZigBee \textit{gateway} dan menjalankan fungsinya dengan baik.
+	%\item Perangkat \textit{gateway} yang dibuat dapat berkomunikasi dengan baik dengan \plat~yang ada dan dapat digunakan untuk mengendalikan jaringan lampu tanpa harus terhubung ke \plat.
+	%\item Fungsi-fungsi untuk mengendalikan lampu dapat dilakukan melalui GUI dengan menggunakan API REST yang disediakan oleh deCONZ.
+	%\item Penggunaan MQTT untuk mekanisme pengiriman pesan dari dan ke perangkat \textit{gateway} dapat berjalan dengan baik. Penggunaan topik MQTT membantu mempermudah proses implementasi sekaligus memberikan informasi yang dibutuhkan untuk membedakan banyak pengguna di dalam \plat. Dengan memberikan id pengguna pada topik, setiap perangkat \textit{gateway} dapat melakukan \textit{subscribe} hanya terhadap pesan yang relevan.
+	\item Untuk membuat sebuah perangkat \textit{gateway} ZigBee berbasiskan GUI pada Raspberry Pi, diperlukan beberapa komponen. Komponen tersebut bisa diimplementasikan menggunakan \textit{tools} atau aplikasi yang telah tersedia. Komponen tersebut adalah:
+	\begin{itemize}
+	\item ZigBee \textit{coordinator} yang berfungsi untuk menghubungkan perangkat \textit{gateway} dengan perangkat ZigBee. Tools yang bisa digunakan adalah deCONZ yang disediakan oleh pihak Dresden Elektronik
+	\item Sebuah kode implementasi \textit{gateway} yang bertugas menerjemahkan pesan dari dan ke koordinator. Kode ini bisa diimplementasikan menggunakan bahasa pemrograman Java dan dengan memodifikasi implementasi gateway yang telah dibuat oleh Fauziah Rahmawati\cite{SkripsiFarah}.
+	\item \textit{Client} MQTT yang berfungsi sebagai \textit{publisher} dan \textit{subscriber}. \textit{Client} inilah yang akan menerima dan mengirim pesan ke \textit{platform} terkait. \textit{Tools} yang bisa digunakan adalah Paho yang disediakan oleh pihak Eclipse.
+	\item Sebuah \textit{server database} lokal yang berfungsi menyimpan informasi terkait perangkat dan beberapa konfigurasi. \textit{Tools} yang bisa digunakan adalah MySQL.
+	\item Sebuah \textit{web server} yang menjadi tempat untuk menjalankan aplikasi web berbasis GUI untuk diakses oleh pengguna. \textit{Tools} yang bisa digunakan adalah Apache.
+	\end{itemize}
+	
+	\item Sebuah jaringan perangkat ZigBee dapat dihubungkan dengan \textit{social internet of things platform} berbasiskan media sosial dengan menggunakan konsep \textit{publish-subscribe} dengan tipe berdasarkan topik. Implementasi konsep \textit{publish-subscribe} ini dapat dilakukan menggunakan protokol MQTT.
+	
+	\item Perintah yang dikirimkan dari \textit{platform} melalui protokol MQTT diterjemahkan oleh \textit{gateway} dan disampaikan ke koordinator melalui REST API, dan informasi mengenai perangkat ZigBee akan diambil secara berkala dari koordinator dan kemudian dikirimkan ke \textit{platform} melalui protokol MQTT.
+	
+	\item Penggunaan konsep topik MQTT membantu mempermudah proses implementasi sekaligus memberikan informasi yang dibutuhkan untuk membedakan banyak pengguna di dalam \textit{platform}. Dengan memberikan id pengguna pada topik, setiap perangkat \textit{gateway} dapat melakukan \textit{subscribe} hanya terhadap pesan yang relevan. Selain membedakan antar pengguna, penggunaan konsep topik MQTT juga dapat digunakan untuk membedakan tiap atribut dalam satu perangkat.
 \end{enumerate}
 
 \section{Saran}

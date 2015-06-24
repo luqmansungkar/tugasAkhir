@@ -130,4 +130,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.2}Kesimpulan}{63}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Saran}{64}{section.6.3}
+\contentsline {section}{\numberline {6.3}Saran}{65}{section.6.3}

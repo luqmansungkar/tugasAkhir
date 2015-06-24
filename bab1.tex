@@ -7,30 +7,32 @@ Pada bagian ini akan dijelaskan latar belakang dari pengerjaan tugas akhir ini, 
 %-----------------------------------------------------------------------------%
 \section{Latar Belakang}
 %-----------------------------------------------------------------------------%
-Penemuan internet beberapa dekade lalu telah merubah cara manusia dalam hal bertukar informasi. Popularitas dari internet terus meningkat hingga pada akhirnya, menurut data dari cisco\cite{CiscoIot}, jumlah perangkat yang terhubung ke internet pada tahun 2010 telah melewati jumlah dari populasi manusia yang ada di Bumi. Lebih jauh lagi, diperkirakan pada tahun 2015 ini jumlah perangkat yang terhubung ke internet akan menjadi dua kali lipat dari jumlah populasi manusia. Hal ini disebabkan oleh teknologi komputer terbenam (komputer yang tidak terlihat keberadaannya) yang akan memicu lahirnya era baru dalam sejarah internet, era \iot.
+Penemuan internet beberapa dekade lalu telah merubah cara manusia dalam hal bertukar informasi. Popularitas dari internet terus meningkat hingga pada akhirnya, menurut data dari Cisco\cite{CiscoIot}, jumlah perangkat yang terhubung ke internet pada tahun 2010 telah melewati jumlah dari populasi manusia yang ada di Bumi. Lebih jauh lagi, diperkirakan pada tahun 2015 ini jumlah perangkat yang terhubung ke internet akan menjadi dua kali lipat dari jumlah populasi manusia. Hal ini disebabkan oleh teknologi komputer terbenam (komputer yang tidak terlihat keberadaannya) yang akan memicu lahirnya era baru dalam sejarah internet, era \iot.
 
-Saat ini, berbagai perangkat yang menerapkan konsep \iot~telah bermunculan di pasaran. Beberapa \textit{platform} yang bertujuan menghubungkan berbagai perangkat \iot-pun mulai bermunculan di pasaran. Berbagai \textit{platform} tersebut memiliki berbagai pendekatan, mulai dari yang menargetkan \textit{end-user} dengan model otomasi, sampai yang menargetkan konsumen \textit{enterprise}. Salah satu pendekatan yang belum banyak terlihat keberadaanya di pasaran adalah pendekatan dengan model sosial media dan menargetkan pada \textit{end-user}. Oleh karena itu, \saya~dan teman-teman \saya~tertarik untuk mengembangkan sebuah \plat~\iot~yang menggunakan model sosial media dan ditargetkan untuk \textit{end-user}.
+Saat ini, berbagai perangkat yang menerapkan konsep \iot~telah bermunculan di pasaran. Beberapa \textit{platform} yang bertujuan menghubungkan berbagai perangkat \iot-pun mulai bermunculan di pasaran. \textit{Platform} tersebut memiliki berbagai pendekatan, mulai dari yang menargetkan \textit{end-user} dengan model otomasi, sampai yang menargetkan konsumen \textit{enterprise}. Salah satu pendekatan yang belum banyak terlihat keberadaanya di pasaran adalah pendekatan dengan model media sosial dan menargetkan pada \textit{end-user}. Oleh karena itu, \saya~dan teman-teman \saya~tertarik untuk mengembangkan sebuah \plat~\textit{social} \iot~yang menggunakan model media sosial dan ditargetkan untuk \textit{end-user}.
 
 Untuk membuat sebuah \textit{platform} yang menargetkan pada \textit{end-user}, diperlukan cara untuk menghubungkan berbagai perangkat yang dimiliki konsumen dengan cara yang mudah. Mekanisme pendaftaran ini harus bisa menangani baik perangkat yang sudah beredar dipasaran maupun yang nantinya akan beredar di pasaran. Konsumen juga mungkin akan menginginkan agar perangkat yang mereka miliki walaupun berbeda merek, namun bisa dikendalikan secara bersamaan. Untuk itu, dibutuhkan sebuah \textit{gateway} yang dapat menghubungkan berbagai perangkat berbeda ke \textit{platform} yang diinginkan melalui internet.
 
 Nisrina Luthfiyati dalam tugas akhirnya yang berjudul "Implementasi ZigBee \textit{Coordinator} dengan REST \textit{Interface}"\cite{SkripsiNina} telah berhasil membuat sebuah \textit{coordinator} untuk perangkat berbasis ZigBee yang dapat diakses melalui perintah REST. Fauziah Rahmawati kemudian dalam tugas akhirnya yang berjudul "Implementasi \textit{Home Automation Gateway} untuk IOT \textit{Cloud Service} berbasis ZigBee \textit{Network}"\cite{SkripsiFarah} berhasil melanjutkan tugas akhir Nisrina Luthfiyati dan membuat sebuah \textit{gateway} yang dapat menghubungkan perangkat berbasis \textit{ZigBee} dengan \textit{Home Automation Profile} ke internet. \textit{Gateway} yang digunakan oleh Fauziah Rahmawati menerapkan konsep \textit{publish-subscribe} dalam melakukan pengiriman data ke internet.
 
-Namun, penulis merasa masih ada yang bisa ditingkatkan dari implementasi \textit{gateway} yang telah dibuat oleh Fauziah, terutama jika akan digunakan pada \textit{platform} \iot~yang akan dibuat oleh \saya~dan teman-teman \saya~yang menargetkan pada \eu. Implementasi \textit{gateway} yang telah dibuat oleh Fauziah masih cukup rumit untuk digunakan dan masih membutuhkan suatu komputer terpisah yang terus menyala untuk bisa digunakan. Sedangkan jika ingin bisa digunakan oleh \eu, \textit{gateway} harus bisa mendaftarkan perangkat yang dimiliki konsumen dengan cara yang mudah dan bisa terhubung dengan pengelola perangkat yang ada pada \plat~terkait. \textit{Gateway} harus menyertakan identitas ketika terhubung ke \plat~sehingga dapat dibedakan antar \textit{gateway} yang dimiliki oleh \textit{user} berbeda. \textit{Gateway} juga harus memiliki bentuk yang ringkas dan tidak memerlukan komputer tambahan sehingga tidak perlu ada komputer konsumen yang menyala terus-menerus. Oleh karena itu, \saya~terpikir untuk membuat sebuah implementasi ZigBee \textit{gateway} berbasis GUI (\textit{Graphical User Interface}) dengan menggunakan Raspberry Pi untuk menyelesaikan masalah yang disebutkan sebelumnya.
+Namun, penulis merasa masih ada yang bisa ditingkatkan dari implementasi \textit{gateway} yang telah dibuat oleh Fauziah, terutama jika akan digunakan pada \textit{platform} \iot~yang akan dibuat oleh \saya~dan teman-teman \saya~yang menargetkan pada \eu. Implementasi \textit{gateway} yang telah dibuat oleh Fauziah masih cukup rumit untuk digunakan dan masih membutuhkan suatu komputer pengguna yang terus menyala untuk bisa digunakan. Sedangkan jika ingin bisa digunakan oleh \eu, \textit{gateway} harus bisa mendaftarkan perangkat yang dimiliki konsumen dengan cara yang mudah dan bisa terhubung dengan pengelola perangkat yang ada pada \plat~terkait. \textit{Gateway} harus menyertakan identitas ketika terhubung ke \plat~sehingga dapat dibedakan antar \textit{gateway} yang dimiliki oleh \textit{user} berbeda. \textit{Gateway} juga harus memiliki bentuk yang ringkas dan tidak memerlukan komputer tambahan sehingga tidak perlu ada komputer konsumen yang menyala terus-menerus. Oleh karena itu, \saya~terpikir untuk membuat sebuah implementasi ZigBee \textit{gateway} berbasis GUI (\textit{Graphical User Interface}) dengan menggunakan Raspberry Pi untuk menyelesaikan masalah yang disebutkan sebelumnya.
 
 
 %-----------------------------------------------------------------------------%
 \section{Rumusan Masalah}
 %-----------------------------------------------------------------------------%
-Masalah yang ingin diselesaikan dalam tugas akhir ini adalah bagaimana membuat sebuah \textit{gateway} yang dapat menghubungkan perangkat yang dimiliki konsumen dengan \plat~\iot~yang menggunakan pendekatan sosial media. \textit{Gateway} harus bisa digunakan oleh \eu~dengan mudah dan dapat berkomunikasi dengan \plat~yang diinginkan. Secara spesifik, rumusan masalah dalam tugas akhir ini dapat dituangkan ke dalam pertanyaan-pertanyaan berikut:
+Masalah yang ingin diselesaikan dalam tugas akhir ini adalah bagaimana membuat sebuah \textit{gateway} yang dapat menghubungkan perangkat yang dimiliki konsumen dengan \plat~\iot~yang menggunakan pendekatan media sosial. \textit{Gateway} harus bisa digunakan oleh \eu~dengan mudah dan dapat berkomunikasi dengan \plat~yang diinginkan. Secara spesifik, rumusan masalah dalam tugas akhir ini dapat dituangkan ke dalam pertanyaan-pertanyaan berikut:
 \begin{enumerate}
-	\item Bagaimana membuat ZigBee \textit{gateway} berbasis GUI dengan menggunakan Raspberry Pi?
-	\item Bagaimana model komunikasi yang baik agar \textit{gateway} dapat terhubung dengan \plat~\iot~berbasis sosial media?
+	%\item Bagaimana membuat ZigBee \textit{gateway} berbasis GUI dengan menggunakan Raspberry Pi?
+	%\item Bagaimana model komunikasi yang baik agar \textit{gateway} dapat terhubung dengan \plat~\iot~berbasis sosial media?
+	\item Bagaimana rancangan implementasi perangkat ZigBee \textit{gateway} berbasiskan GUI dengan menggunakan Raspberry Pi?
+	\item Bagaimana cara menghubungkan jaringan perangkat ZigBee dengan \textit{social internet of things platform} berbasiskan media sosial?
 \end{enumerate}
 
 %-----------------------------------------------------------------------------%
 \section{Tujuan}
 %-----------------------------------------------------------------------------%
-Tujuan dari tugas akhir ini adalah menghasilkan sebuah perangkat \textit{gateway} yang dapat mengirimkan informasi dari jaringan lampu ZigBee ke internet. Perangkat \textit{gateway} yang dihasilkan dapat dioperasikan menggunakan GUI. \textit{Gateway} juga dikembangkan dengan berpatokan pada \plat~\iot~yang berbasis sosial media. 
+Tujuan dari tugas akhir ini adalah menghasilkan sebuah perangkat \textit{gateway} yang dapat mengirimkan informasi dari jaringan lampu ZigBee ke internet. Perangkat \textit{gateway} yang dihasilkan dapat dioperasikan menggunakan GUI. \textit{Gateway} juga dikembangkan dengan berpatokan pada \plat~\iot~yang berbasis media sosial. 
 
 \section{Posisi Penelitian}
 
@@ -50,7 +52,7 @@ Penjelasan lebih mendetail akan dijelaskan pada Bab 3. Pembagian topik lebih spe
 	\item \textit{Analytics} Bagian ini belum akan dikerjakan.
 	\item \textit{Pub-Sub System} akan dikerjakan oleh Abdullah Izzuddiin Alqassam.
 	\item \textit{Things Management} akan dikerjakan oleh Prakoso Adi Nugroho.
-	\item \textit{ZigBee Gateway} akan oleh dikerjakan oleh \saya~, Luqman Sungkar dalam tugas akhir ini.
+	\item \textit{ZigBee Gateway} akan oleh dikerjakan oleh \saya, Luqman Sungkar dalam tugas akhir ini.
 	
 \end{enumerate}
 
@@ -77,7 +79,7 @@ Pengerjaan dari tugas akhir ini akan dilakukan dengan tahapan sebagai berikut:
 \end{enumerate}
 
 \section{Ruang Lingkup Pengerjaan}
-Ruang lingkup implementasi \textit{ZigBee gateway} untuk \plat~\iot~berbasis sosial media dengan target konsumen \eu~adalah sebagai berikut:
+Ruang lingkup implementasi \textit{ZigBee gateway} untuk \textit{social} \iot~\plat~berbasis media sosial dengan target konsumen \eu~adalah sebagai berikut:
 \begin{enumerate}
 	\item Perangkat yang akan bisa dihubungkan dibatasi pada perangkat yang menggunakan implementasi ZigBee dengan \textit{profile Light Link}.
 	\item Implementasi ZigBee \textit{coordinator} yang digunakan adalah implementasi yang telah disediakan oleh pihak dresden, yaitu deCONZ.
@@ -85,6 +87,7 @@ Ruang lingkup implementasi \textit{ZigBee gateway} untuk \plat~\iot~berbasis sos
 	\item Implementasi \textit{gateway} akan berdasarkan pada implementasi \textit{gateway} yang telah dibuat oleh Fauziah Rahmawati\cite{SkripsiFarah}.
 	\item \textit{Platform} yang akan digunakan sebagai acuan adalah \plat~yang disebutkan dalam posisi penelitian.
 	\item Perangkat yang digunakan adalah Raspberry Pi Model B dengan sistem operasi Raspbian.
+	\item Implementasi dalam tugas akhir ini tidak memperhatikan masalah dari sisi keamanan.
 	%\item Maksud dari ditargetkan untuk \eu~adalah:
 	%\begin{itemize}
 	%	\item Perangkat \textit{gateway} dapat digunakan tanpa perlu dilakukan \textit{set up} terlebih dahulu oleh penggunanya.

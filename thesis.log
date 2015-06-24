@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  16 JUN 2015 17:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.10)  25 JUN 2015 00:52
 entering extended mode
 **thesis.tex
 ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\thesis.tex"
@@ -880,7 +880,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 Underfull \hbox (badness 1789) in paragraph at lines 15--16
 []|\OT1/ptm/m/n/12 Implementasi Zig-Bee \OT1/ptm/m/it/12 Gate-way \OT1/ptm/m/n/
-12 Berba-sis GUI Meng-gu-nakan
+12 Berbasis GUI Meng-gu-nakan
  []
 
 
@@ -931,7 +931,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--45
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 93.
 
-("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\pengantar.tex" [5
+("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\pengantar.tex"
+Underfull \hbox (badness 5771) in paragraph at lines 11--12
+[]\OT1/ptm/m/n/12 Fauziah Rah-mawati, Kur-ni-a-gusta Dwinto, dan Riza Herzego N
+ida
+ []
+
+[5
 
 
 
@@ -956,7 +962,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--36
 ]) ("D:\backup\Kuliah\Semester 8\TA\tugasAkhir\abstrak.tex"
 Underfull \hbox (badness 1052) in paragraph at lines 15--16
 []|\OT1/ptm/m/n/12 Implementasi Zig-Bee \OT1/ptm/m/it/12 Gate-way \OT1/ptm/m/n/
-12 Berba-sis GUI Meng-gu-
+12 Berbasis GUI Meng-gu-
  []
 
 
@@ -978,8 +984,8 @@ Underfull \hbox (badness 1014) in paragraph at lines 20--22
 
 
 Underfull \hbox (badness 1067) in paragraph at lines 20--22
-\OT1/ptm/m/n/12 perangkat lampu berba-sis Zig-Bee de-ngan se-buah \OT1/ptm/m/it
-/12 platform \OT1/ptm/m/n/12 so-cial \OT1/ptm/m/it/12 in-ter-net of
+\OT1/ptm/m/n/12 perangkat lampu berbasis Zig-Bee de-ngan se-buah \OT1/ptm/m/it/
+12 platform \OT1/ptm/m/n/12 so-cial \OT1/ptm/m/it/12 in-ter-net of
  []
 
 
@@ -1081,11 +1087,11 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] <pics/rancangan-siot.PNG, id=661, 985.7628pt x 347.8596pt>
+[2] <pics/rancangan-siot.PNG, id=662, 985.7628pt x 347.8596pt>
 File: pics/rancangan-siot.PNG Graphic file (type png)
 
 <use pics/rancangan-siot.PNG>
-Package pdftex.def Info: pics/rancangan-siot.PNG used on input line 41.
+Package pdftex.def Info: pics/rancangan-siot.PNG used on input line 43.
 (pdftex.def)             Requested size: 358.50229pt x 126.50856pt.
 
 
@@ -1095,7 +1101,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-siot.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 []\OT1/ptm/m/n/12 Setelah berhasil melakukan per-an-can-gan, penulis akan melak
 ukan
  []
@@ -1107,9 +1113,9 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [4]
-Underfull \hbox (badness 4846) in paragraph at lines 80--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 \OT1/ptm/m/n/12 Ruang lingkup implementasi \OT1/ptm/m/it/12 Zig-Bee gate-way \O
-T1/ptm/m/n/12 un-tuk \OT1/ptm/m/it/12 platform in-ter-net of
+T1/ptm/m/n/12 un-tuk \OT1/ptm/m/it/12 so-cial in-ter-net of
  []
 
 
@@ -1161,7 +1167,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10] <pics/arsitektur-zigbee-gateway.PNG, id=741, 573.64313pt x 344.03531pt>
+[10] <pics/arsitektur-zigbee-gateway.PNG, id=743, 573.64313pt x 344.03531pt>
 File: pics/arsitektur-zigbee-gateway.PNG Graphic file (type png)
 
 <use pics/arsitektur-zigbee-gateway.PNG>
@@ -1194,14 +1200,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12] <pics/mqtt-topic.PNG, id=765, 891.33pt x 214.8828pt>
+[12] <pics/mqtt-topic.PNG, id=767, 891.33pt x 214.8828pt>
 File: pics/mqtt-topic.PNG Graphic file (type png)
 
 <use pics/mqtt-topic.PNG>
 Package pdftex.def Info: pics/mqtt-topic.PNG used on input line 72.
 (pdftex.def)             Requested size: 358.50229pt x 86.42702pt.
 
-<pics/single-level-wildcard.PNG, id=771, 691.383pt x 477.9456pt>
+<pics/single-level-wildcard.PNG, id=773, 691.383pt x 477.9456pt>
 File: pics/single-level-wildcard.PNG Graphic file (type png)
 
 <use pics/single-level-wildcard.PNG>
@@ -1215,7 +1221,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/mqtt-topic.PNG>]
-<pics/multi-level-wildcard.PNG, id=779, 833.0322pt x 477.9456pt>
+<pics/multi-level-wildcard.PNG, id=781, 833.0322pt x 477.9456pt>
 File: pics/multi-level-wildcard.PNG Graphic file (type png)
 
 <use pics/multi-level-wildcard.PNG>
@@ -1268,7 +1274,19 @@ Underfull \hbox (badness 3019) in paragraph at lines 45--46
 \OT1/ptm/m/it/12 gate-way \OT1/ptm/m/n/12 yang
  []
 
-<pics/rancangan-sistem.PNG, id=804, 955.4094pt x 455.7828pt>
+
+Underfull \hbox (badness 1297) in paragraph at lines 45--46
+\OT1/ptm/m/n/12 menghubungkan jaringan lampu berbasis Zig-Bee de-ngan in-ter-ne
+t. Jaringan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+\OT1/ptm/m/n/12 lampu ini se-cara spe-si-fik akan di-hubungkan de-ngan \OT1/ptm
+/m/it/12 so-cialinternet of
+ []
+
+<pics/rancangan-sistem.PNG, id=806, 955.4094pt x 455.7828pt>
 File: pics/rancangan-sistem.PNG Graphic file (type png)
 
 <use pics/rancangan-sistem.PNG>
@@ -1281,7 +1299,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] <pics/rancangan-gateway.PNG, id=811, 887.4756pt x 490.9542pt>
+[17] <pics/rancangan-gateway.PNG, id=813, 887.4756pt x 490.9542pt>
 File: pics/rancangan-gateway.PNG Graphic file (type png)
 
 <use pics/rancangan-gateway.PNG>
@@ -1302,7 +1320,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [19 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/rancangan-gateway.PNG>]
-<pics/deCONZ-gui.png, id=823, 922.94812pt x 494.59781pt>
+<pics/deCONZ-gui.png, id=825, 922.94812pt x 494.59781pt>
 File: pics/deCONZ-gui.png Graphic file (type png)
 
 <use pics/deCONZ-gui.png>
@@ -1315,7 +1333,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20] <pics/deCONZ-web.png, id=829, 1027.58907pt x 484.81125pt>
+[20] <pics/deCONZ-web.png, id=831, 1027.58907pt x 484.81125pt>
 File: pics/deCONZ-web.png Graphic file (type png)
 
 <use pics/deCONZ-web.png>
@@ -1330,7 +1348,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [21 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/deCONZ-gui.png> <D:/backup/
 Kuliah/Semester 8/TA/tugasAkhir/pics/deCONZ-web.png>]
-<pics/rancangan-pengiriman-pesan.png, id=838, 907.7112pt x 263.0628pt>
+<pics/rancangan-pengiriman-pesan.png, id=840, 907.7112pt x 263.0628pt>
 File: pics/rancangan-pengiriman-pesan.png Graphic file (type png)
 
 <use pics/rancangan-pengiriman-pesan.png>
@@ -1545,35 +1563,35 @@ BAB 4.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/raspberry.jpg, id=915, 1369.115pt x 770.88pt>
+<pics/raspberry.jpg, id=917, 856.19875pt x 481.8pt>
 File: pics/raspberry.jpg Graphic file (type jpg)
  <use pics/raspberry.jpg>
 Package pdftex.def Info: pics/raspberry.jpg used on input line 11.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+(pdftex.def)             Requested size: 358.50229pt x 201.73708pt.
 
 [31
 
 
 
  <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/raspberry.jpg>]
-<pics/raspbee.jpg, id=922, 1369.115pt x 770.88pt>
+<pics/raspbee.jpg, id=924, 856.19875pt x 481.8pt>
 File: pics/raspbee.jpg Graphic file (type jpg)
  <use pics/raspbee.jpg>
 Package pdftex.def Info: pics/raspbee.jpg used on input line 20.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+(pdftex.def)             Requested size: 358.50229pt x 201.73708pt.
 
-<pics/raspberry+raspbee.jpg, id=923, 1369.115pt x 770.88pt>
+<pics/raspberry+raspbee.jpg, id=925, 856.19875pt x 481.8pt>
 File: pics/raspberry+raspbee.jpg Graphic file (type jpg)
 
 <use pics/raspberry+raspbee.jpg>
 Package pdftex.def Info: pics/raspberry+raspbee.jpg used on input line 26.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+(pdftex.def)             Requested size: 358.50229pt x 201.73708pt.
 
-<pics/tenda.jpg, id=925, 1369.115pt x 770.88pt>
+<pics/tenda.jpg, id=927, 856.19875pt x 481.8pt>
 File: pics/tenda.jpg Graphic file (type jpg)
  <use pics/tenda.jpg>
 Package pdftex.def Info: pics/tenda.jpg used on input line 34.
-(pdftex.def)             Requested size: 358.50229pt x 201.84735pt.
+(pdftex.def)             Requested size: 358.50229pt x 201.73708pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1862,13 +1880,13 @@ BAB 5.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/philips-hue.jpg, id=1254, 4336.2pt x 2441.12pt>
+<pics/philips-hue.jpg, id=1256, 856.19875pt x 481.8pt>
 File: pics/philips-hue.jpg Graphic file (type jpg)
 
 <use pics/philips-hue.jpg>
 Package pdftex.def Info: pics/philips-hue.jpg used on input line 13.
-(pdftex.def)             Requested size: 358.50229pt x 201.81206pt.
- <pics/uji1.jpg, id=1255, 240.9pt x 85.82062pt>
+(pdftex.def)             Requested size: 358.50229pt x 201.73708pt.
+ <pics/uji1.jpg, id=1257, 240.9pt x 85.82062pt>
 File: pics/uji1.jpg Graphic file (type jpg)
 
 <use pics/uji1.jpg>
@@ -1879,18 +1897,18 @@ Package pdftex.def Info: pics/uji1.jpg used on input line 33.
 
 
  <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/philips-hue.jpg>] <pics/uji1x.
-jpg, id=1261, 457.71pt x 25.59563pt>
+jpg, id=1263, 457.71pt x 25.59563pt>
 File: pics/uji1x.jpg Graphic file (type jpg)
 
 <use pics/uji1x.jpg>
 Package pdftex.def Info: pics/uji1x.jpg used on input line 52.
 (pdftex.def)             Requested size: 258.91765pt x 14.4795pt.
- <pics/uji2.jpg, id=1262, 1369.115pt x 770.88pt>
+ <pics/uji2.jpg, id=1264, 856.19875pt x 481.8pt>
 File: pics/uji2.jpg Graphic file (type jpg)
 
 <use pics/uji2.jpg>
 Package pdftex.def Info: pics/uji2.jpg used on input line 71.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1900,17 +1918,17 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [48 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji1.jpg> <D:/backup/Kuliah
 /Semester 8/TA/tugasAkhir/pics/uji1x.jpg>]
-<pics/uji3.jpg, id=1269, 1369.115pt x 770.88pt>
+<pics/uji3.jpg, id=1271, 856.19875pt x 481.8pt>
 File: pics/uji3.jpg Graphic file (type jpg)
  <use pics/uji3.jpg>
 Package pdftex.def Info: pics/uji3.jpg used on input line 90.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
-<pics/uji4.jpg, id=1270, 1369.115pt x 770.88pt>
+<pics/uji4.jpg, id=1272, 856.19875pt x 481.8pt>
 File: pics/uji4.jpg Graphic file (type jpg)
  <use pics/uji4.jpg>
 Package pdftex.def Info: pics/uji4.jpg used on input line 109.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1920,17 +1938,17 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [49 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji2.jpg> <D:/backup/Kuliah
 /Semester 8/TA/tugasAkhir/pics/uji3.jpg>]
-<pics/uji5.jpg, id=1277, 1369.115pt x 770.88pt>
+<pics/uji5.jpg, id=1279, 856.19875pt x 481.8pt>
 File: pics/uji5.jpg Graphic file (type jpg)
  <use pics/uji5.jpg>
 Package pdftex.def Info: pics/uji5.jpg used on input line 128.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
-<pics/uji6.jpg, id=1278, 1369.115pt x 770.88pt>
+<pics/uji6.jpg, id=1280, 856.19875pt x 481.8pt>
 File: pics/uji6.jpg Graphic file (type jpg)
  <use pics/uji6.jpg>
 Package pdftex.def Info: pics/uji6.jpg used on input line 147.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1944,11 +1962,11 @@ Underfull \hbox (badness 3364) in paragraph at lines 160--161
 []|\OT1/ptm/m/n/12 Menekan tombol 'Buat Group', mengisi nama, ke-mu-dian
  []
 
-<pics/uji8.jpg, id=1285, 1369.115pt x 770.88pt>
+<pics/uji8.jpg, id=1287, 856.19875pt x 481.8pt>
 File: pics/uji8.jpg Graphic file (type jpg)
  <use pics/uji8.jpg>
 Package pdftex.def Info: pics/uji8.jpg used on input line 183.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1957,17 +1975,17 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [51 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji6.jpg>]
-<pics/uji9.jpg, id=1293, 1369.115pt x 770.88pt>
+<pics/uji9.jpg, id=1295, 856.19875pt x 481.8pt>
 File: pics/uji9.jpg Graphic file (type jpg)
  <use pics/uji9.jpg>
 Package pdftex.def Info: pics/uji9.jpg used on input line 202.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
-<pics/uji10.jpg, id=1294, 1369.115pt x 770.88pt>
+<pics/uji10.jpg, id=1296, 856.19875pt x 481.8pt>
 File: pics/uji10.jpg Graphic file (type jpg)
  <use pics/uji10.jpg>
 Package pdftex.def Info: pics/uji10.jpg used on input line 221.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1977,17 +1995,17 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [52 <D:/backup/Kuliah/Semester 8/TA/tugasAkhir/pics/uji8.jpg> <D:/backup/Kuliah
 /Semester 8/TA/tugasAkhir/pics/uji9.jpg>]
-<pics/uji11.jpg, id=1301, 4336.2pt x 2441.12pt>
+<pics/uji11.jpg, id=1303, 856.19875pt x 481.8pt>
 File: pics/uji11.jpg Graphic file (type jpg)
  <use pics/uji11.jpg>
 Package pdftex.def Info: pics/uji11.jpg used on input line 240.
-(pdftex.def)             Requested size: 258.91765pt x 145.75316pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
-<pics/uji12.jpg, id=1302, 4336.2pt x 2441.12pt>
+<pics/uji12.jpg, id=1304, 856.19875pt x 481.8pt>
 File: pics/uji12.jpg Graphic file (type jpg)
  <use pics/uji12.jpg>
 Package pdftex.def Info: pics/uji12.jpg used on input line 259.
-(pdftex.def)             Requested size: 258.91765pt x 145.75316pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2008,7 +2026,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--307
 []|\OT1/pcr/m/n/12 mosquitto[]sub -h 128.199.236.53 -t
  []
 
-<pics/uji15.jpg, id=1315, 482.55281pt x 112.92188pt>
+<pics/uji15.jpg, id=1317, 482.55281pt x 112.92188pt>
 File: pics/uji15.jpg Graphic file (type jpg)
  <use pics/uji15.jpg>
 Package pdftex.def Info: pics/uji15.jpg used on input line 312.
@@ -2018,11 +2036,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--326
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji16.jpg, id=1316, 1369.115pt x 770.88pt>
+<pics/uji16.jpg, id=1318, 856.19875pt x 481.8pt>
 File: pics/uji16.jpg Graphic file (type jpg)
  <use pics/uji16.jpg>
 Package pdftex.def Info: pics/uji16.jpg used on input line 333.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2035,21 +2053,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 346--347
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji17.jpg, id=1323, 1369.115pt x 770.88pt>
+<pics/uji17.jpg, id=1325, 856.19875pt x 481.8pt>
 File: pics/uji17.jpg Graphic file (type jpg)
  <use pics/uji17.jpg>
 Package pdftex.def Info: pics/uji17.jpg used on input line 354.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 367--368
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji18.jpg, id=1324, 1369.115pt x 770.88pt>
+<pics/uji18.jpg, id=1326, 856.19875pt x 481.8pt>
 File: pics/uji18.jpg Graphic file (type jpg)
  <use pics/uji18.jpg>
 Package pdftex.def Info: pics/uji18.jpg used on input line 375.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2063,11 +2081,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--389
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji19.jpg, id=1330, 1369.115pt x 770.88pt>
+<pics/uji19.jpg, id=1332, 856.19875pt x 481.8pt>
 File: pics/uji19.jpg Graphic file (type jpg)
  <use pics/uji19.jpg>
 Package pdftex.def Info: pics/uji19.jpg used on input line 396.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2080,21 +2098,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 409--410
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji20.jpg, id=1338, 1369.115pt x 770.88pt>
+<pics/uji20.jpg, id=1340, 856.19875pt x 481.8pt>
 File: pics/uji20.jpg Graphic file (type jpg)
  <use pics/uji20.jpg>
 Package pdftex.def Info: pics/uji20.jpg used on input line 417.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 430--431
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji21.jpg, id=1339, 1369.115pt x 770.88pt>
+<pics/uji21.jpg, id=1341, 856.19875pt x 481.8pt>
 File: pics/uji21.jpg Graphic file (type jpg)
  <use pics/uji21.jpg>
 Package pdftex.def Info: pics/uji21.jpg used on input line 438.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2108,11 +2126,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 451--452
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji22.jpg, id=1345, 1369.115pt x 770.88pt>
+<pics/uji22.jpg, id=1347, 856.19875pt x 481.8pt>
 File: pics/uji22.jpg Graphic file (type jpg)
  <use pics/uji22.jpg>
 Package pdftex.def Info: pics/uji22.jpg used on input line 459.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2125,21 +2143,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 472--473
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji23.jpg, id=1352, 1369.115pt x 770.88pt>
+<pics/uji23.jpg, id=1354, 856.19875pt x 481.8pt>
 File: pics/uji23.jpg Graphic file (type jpg)
  <use pics/uji23.jpg>
 Package pdftex.def Info: pics/uji23.jpg used on input line 480.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 493--494
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji24.jpg, id=1353, 1369.115pt x 770.88pt>
+<pics/uji24.jpg, id=1355, 856.19875pt x 481.8pt>
 File: pics/uji24.jpg Graphic file (type jpg)
  <use pics/uji24.jpg>
 Package pdftex.def Info: pics/uji24.jpg used on input line 501.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2153,11 +2171,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 514--515
 []|\OT1/pcr/m/n/12 sot/g/557903af5ad821942ef0af51/ledlight
  []
 
-<pics/uji25.jpg, id=1359, 1369.115pt x 770.88pt>
+<pics/uji25.jpg, id=1361, 856.19875pt x 481.8pt>
 File: pics/uji25.jpg Graphic file (type jpg)
  <use pics/uji25.jpg>
 Package pdftex.def Info: pics/uji25.jpg used on input line 522.
-(pdftex.def)             Requested size: 258.91765pt x 145.77472pt.
+(pdftex.def)             Requested size: 258.91765pt x 145.69531pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -2184,30 +2202,41 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 ]
-Underfull \hbox (badness 2326) in paragraph at lines 15--16
-[]\OT1/ptm/m/n/12 Penggunaan MQTT un-tuk mekanisme pen-gi-r-i-man pe-san dari d
-an ke
+Underfull \hbox (badness 1168) in paragraph at lines 27--28
+[]\OT1/ptm/m/n/12 Perintah yang dikir-imkan dari \OT1/ptm/m/it/12 platform \OT1
+/ptm/m/n/12 melalui pro-tokol MQTT diter-
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 19--20
+Underfull \hbox (badness 7944) in paragraph at lines 29--30
+[]\OT1/ptm/m/n/12 Penggunaan konsep topik MQTT mem-bantu mem-per-mu-dah proses
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 33--34
 \OT1/ptm/m/n/12 Setelah melakukan implementasi yang di-je-laskan dalam tu-gas a
 khir ini,
  []
 
-)
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[64]
+[64])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
- [65
+ [66
 
 
 ]
@@ -2240,12 +2269,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
- 18352 strings out of 493921
- 292339 string characters out of 3144873
- 880969 words of memory out of 3000000
+ 18356 strings out of 493921
+ 292375 string characters out of 3144873
+ 881030 words of memory out of 3000000
  20591 multiletter control sequences out of 15000+200000
  40303 words of font info for 82 fonts, out of 3000000 for 9000
- 921 hyphenation exceptions out of 8191
+ 923 hyphenation exceptions out of 8191
  44i,16n,49p,1688b,2850s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
@@ -2255,9 +2284,9 @@ X 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (81 pages, 16542148 bytes).
+Output written on thesis.pdf (82 pages, 6594795 bytes).
 PDF statistics:
- 1547 PDF objects out of 1728 (max. 8388607)
- 581 named destinations out of 1000 (max. 500000)
+ 1555 PDF objects out of 1728 (max. 8388607)
+ 583 named destinations out of 1000 (max. 500000)
  724 words of extra memory for PDF output out of 10000 (max. 10000000)
 
